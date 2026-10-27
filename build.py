@@ -21,6 +21,13 @@ DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
 def esc(s): return html.escape(str(s), quote=True)
 
+def bp(site, path="/"):
+    """Prefix absolute site paths for GitHub Pages subdirectory deploys."""
+    base = (site.get("base_path") or "").rstrip("/")
+    if not path.startswith("/"):
+        path = "/" + path
+    return (base + path) if base else path
+
 def load():
     site = json.load(open(os.path.join(DATA, "site.json")))
     cities = []
@@ -74,16 +81,16 @@ def page(site, title, desc, path, body, extra_head=""):
 <link rel="canonical" href="{esc(canonical)}">
 <meta property="og:title" content="{esc(title)}"><meta property="og:description" content="{esc(desc)}">
 <meta property="og:type" content="website"><meta property="og:url" content="{esc(canonical)}">
-<link rel="stylesheet" href="/style.css">
+<link rel="stylesheet" href="{bp(site, '/style.css')}">
 {extra_head}
 </head><body>
 <header class="site"><div class="wrap">
-<a class="logo" href="/">Public <span>Sauna</span> Map</a>
-<nav><a href="/cities/">Cities</a><a href="/about/">About</a><a href="/affiliate-disclosure/">Disclosure</a></nav>
+<a class="logo" href="{bp(site, '/')}">Public <span>Sauna</span> Map</a>
+<nav><a href="{bp(site, '/cities/')}">Cities</a><a href="{bp(site, '/about/')}">About</a><a href="{bp(site, '/affiliate-disclosure/')}">Disclosure</a></nav>
 </div></header>
 {body}
 <footer><div class="wrap">
-<a href="/">Home</a><a href="/cities/">All cities</a><a href="/about/">About</a><a href="/affiliate-disclosure/">Affiliate disclosure</a>
+<a href="{bp(site, '/')}">Home</a><a href="{bp(site, '/cities/')}">All cities</a><a href="{bp(site, '/about/')}">About</a><a href="{bp(site, '/affiliate-disclosure/')}">Affiliate disclosure</a>
 <p>Details change often. Always confirm prices, hours and rules on the venue's own website before you go. Nothing on this site is medical advice.</p>
 <p>&copy; {datetime.date.today().year} {esc(site['name'])}</p>
 </div></footer>
@@ -96,7 +103,7 @@ def at_home(site):
         + "</li>" for l in site["home_gear_links"])
     return f"""<section class="athome"><h2 style="margin-top:0">Want one at home?</h2>
 <p class="muted">Buying guides for home saunas and cold plunges are coming soon. Some of these will become affiliate links,
-which means we may earn a commission if you buy (see our <a href="/affiliate-disclosure/">disclosure</a>). None are active yet.</p>
+which means we may earn a commission if you buy (see our <a href="{bp(site, '/affiliate-disclosure/')}">disclosure</a>). None are active yet.</p>
 <ul>{items}</ul></section>"""
 
 def fact(label, val):
@@ -151,7 +158,7 @@ def city_page(site, c):
     head = (f'<script type="application/ld+json">{json.dumps(schema)}</script>\n'
             f'<script type="application/ld+json">{json.dumps(crumbs)}</script>')
     body = f"""<section class="hero"><div class="wrap">
-<div class="crumbs" style="color:#f3d2c0"><a href="/" style="color:#f3d2c0">Home</a> / <a href="/cities/" style="color:#f3d2c0">Cities</a></div>
+<div class="crumbs" style="color:#f3d2c0"><a href="{bp(site, '/')}" style="color:#f3d2c0">Home</a> / <a href="{bp(site, '/cities/')}" style="color:#f3d2c0">Cities</a></div>
 <h1>Public saunas in {esc(c['city'])}, {esc(c['state'])}</h1>
 <p>{esc(c['intro'])}</p></div></section>
 <main><div class="wrap">
@@ -183,7 +190,7 @@ def build():
     cities.sort(key=lambda c: (c["state_name"], c["city"]))
     total = sum(len(c["venues"]) for c in cities)
     city_cards = "".join(
-        f"""<div class="card"><a class="city" href="/cities/{c['slug']}/">{esc(c['city'])}, {esc(c['state'])}</a>
+        f"""<div class="card"><a class="city" href="{bp(site, f"/cities/{c['slug']}/")}">{esc(c['city'])}, {esc(c['state'])}</a>
 <div class="muted">{len(c['venues'])} venues &middot; checked {esc(c['last_checked'])}</div>
 <div class="tags">{''.join(f'<span class="tag">{esc(t)}</span>' for t in top_tags(c))}</div></div>"""
         for c in cities)
@@ -204,7 +211,7 @@ def build():
     by_state = {}
     for c in cities: by_state.setdefault(c["state_name"], []).append(c)
     lists = "".join(f"<h2>{esc(s)}</h2><div class='grid'>" + "".join(
-        f"<div class='card'><a class='city' href='/cities/{c['slug']}/'>{esc(c['city'])}</a><div class='muted'>{len(c['venues'])} venues</div></div>"
+        f"<div class='card'><a class='city' href='{bp(site, f"/cities/{c['slug']}/")}'>{esc(c['city'])}</a><div class='muted'>{len(c['venues'])} venues</div></div>"
         for c in cs) + "</div>" for s, cs in sorted(by_state.items()))
     write("/cities/", f"All Cities | {site['name']}",
           f"Browse public sauna and bathhouse listings in {len(cities)} US cities.",
@@ -222,7 +229,7 @@ def build():
 <ul><li>We don't make health or medical claims. Talk to a doctor if you have questions about whether sauna or cold water is right for you.</li>
 <li>Venues don't pay to be listed, and listings aren't ranked by payment.</li></ul>
 <h2>Money</h2>
-<p>The site may eventually earn money through affiliate links in home sauna and cold plunge buying guides. See the <a href="/affiliate-disclosure/">affiliate disclosure</a>. As of today, no affiliate links are active.</p>
+<p>The site may eventually earn money through affiliate links in home sauna and cold plunge buying guides. See the <a href="{bp(site, '/affiliate-disclosure/')}">affiliate disclosure</a>. As of today, no affiliate links are active.</p>
 <h2>Corrections</h2><p>Venues change prices, hours and locations often. If something is wrong, we want to fix it. A contact address is coming soon.</p>
 </div></main>""")
     write("/affiliate-disclosure/", f"Affiliate Disclosure | {site['name']}", f"How {site['name']} may earn money through affiliate links.",
@@ -234,7 +241,7 @@ def build():
 </div></main>""")
     # 404, robots, sitemap
     open(os.path.join(DIST, "404.html"), "w").write(page(site, f"Not found | {site['name']}", "Page not found.", "/404.html",
-        "<main><div class='wrap'><h1>Page not found</h1><p><a href='/cities/'>Browse all cities</a></p></div></main>"))
+        f"<main><div class='wrap'><h1>Page not found</h1><p><a href='{bp(site, '/cities/')}'>Browse all cities</a></p></div></main>"))
     open(os.path.join(DIST, "robots.txt"), "w").write(f"User-agent: *\nAllow: /\nSitemap: {site['base_url']}/sitemap.xml\n")
     lastmod = {f"/cities/{c['slug']}/": c["last_checked"] for c in cities}
     newest = max(c["last_checked"] for c in cities)

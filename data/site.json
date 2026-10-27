@@ -1,12 +1,29 @@
 {
   "name": "Public Sauna Map",
   "tagline": "Real drop-in saunas, banyas and bathhouses across the US, checked against each venue's own website.",
-  "base_url": "https://publicsaunamap.com",
+  "base_url": "https://mjisheretoostay.github.io/public-sauna-map",
   "contact_email": "hello@publicsaunamap.com (placeholder, not set up yet)",
   "home_gear_links": [
-    {"label": "Wood-fired & electric home saunas (Sweaty Yeti)", "url": "#PLACEHOLDER-affiliate-sweaty-yeti", "placeholder": true},
-    {"label": "Cold plunge tubs (Plunge)", "url": "#PLACEHOLDER-affiliate-plunge", "placeholder": true},
-    {"label": "Outdoor barrel saunas (Topture)", "url": "#PLACEHOLDER-affiliate-topture", "placeholder": true},
-    {"label": "Sauna buying guide (SaunaCloud)", "url": "#PLACEHOLDER-affiliate-saunacloud", "placeholder": true}
-  ]
+    {
+      "label": "Wood-fired & electric home saunas (Sweaty Yeti)",
+      "url": "#PLACEHOLDER-affiliate-sweaty-yeti",
+      "placeholder": true
+    },
+    {
+      "label": "Cold plunge tubs (Plunge)",
+      "url": "#PLACEHOLDER-affiliate-plunge",
+      "placeholder": true
+    },
+    {
+      "label": "Outdoor barrel saunas (Topture)",
+      "url": "#PLACEHOLDER-affiliate-topture",
+      "placeholder": true
+    },
+    {
+      "label": "Sauna buying guide (SaunaCloud)",
+      "url": "#PLACEHOLDER-affiliate-saunacloud",
+      "placeholder": true
+    }
+  ],
+  "base_path": "/public-sauna-map"
 }

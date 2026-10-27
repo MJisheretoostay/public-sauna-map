@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://publicsaunamap.com/sitemap.xml
+Sitemap: https://mjisheretoostay.github.io/public-sauna-map/sitemap.xml
