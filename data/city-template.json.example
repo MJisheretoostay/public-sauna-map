@@ -1,0 +1,24 @@
+{
+  "slug": "city-name-st",
+  "city": "City Name",
+  "state": "ST",
+  "state_name": "State Name",
+  "intro": "2-3 factual sentences about the local public sauna scene. No health claims.",
+  "last_checked": "YYYY-MM-DD",
+  "venues": [
+    {
+      "name": "Venue name",
+      "neighborhood": "Neighborhood (or 'Unknown')",
+      "address": "Street address, City, ST ZIP (or 'Location varies')",
+      "sauna_type": ["Wood-fired | Electric | Propane-fired | Russian banya | Bathhouse | Steam room | Infrared | Mobile | Outdoor | Floating | Seasonal"],
+      "drop_in_price": "$NN (or 'Unknown')",
+      "session_length": "NN minutes (or 'Unknown')",
+      "cold_plunge": "Plunge pool / tubs / lake / cold shower / none / Unknown",
+      "schedule": "Mixed / single-gender days / 18+ / hours, as stated by venue (or 'Unknown')",
+      "booking_url": "https://...",
+      "source_urls": ["https://venue-own-site...", "https://optional-reputable-guide..."],
+      "notes": "Optional short practical notes (parking, what to bring). No health claims.",
+      "last_checked": "YYYY-MM-DD"
+    }
+  ]
+}

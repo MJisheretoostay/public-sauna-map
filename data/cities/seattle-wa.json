@@ -1,0 +1,80 @@
+{
+  "slug": "seattle-wa",
+  "city": "Seattle",
+  "state": "WA",
+  "state_name": "Washington",
+  "intro": "Seattle's public sauna scene is mostly mobile and on the water: wood-fired saunas parked at Alki Beach, Golden Gardens and Lincoln Park, where the cold plunge is Puget Sound, plus a floating sauna on Lake Union. Park-based saunas depend on permits, so locations can shift.",
+  "last_checked": "2026-10-21",
+  "venues": [
+    {
+      "name": "Bywater Sauna",
+      "neighborhood": "Alki Beach, Golden Gardens, Old Stove (Ballard, Oct-Jun); Leschi currently closed",
+      "address": "Multiple park locations, Seattle, WA",
+      "sauna_type": ["Mobile", "Outdoor", "Heat source unknown"],
+      "drop_in_price": "$35 weekdays, $40 weekends",
+      "session_length": "60 or 75 minutes",
+      "cold_plunge": "Open water (Puget Sound) or cool air",
+      "schedule": "Mixed; under-18 only with prior notice and a guardian.",
+      "booking_url": "https://www.bywatersauna.com/",
+      "source_urls": ["https://www.bywatersauna.com/"],
+      "notes": "Book ahead; limited spots per session. Bring your own towel.",
+      "last_checked": "2026-10-21"
+    },
+    {
+      "name": "Sauna Moon Seattle",
+      "neighborhood": "Alki Beach (West Seattle)",
+      "address": "Alki Beach Park, Seattle, WA 98116 (exact spot in booking confirmation)",
+      "sauna_type": ["Wood-fired", "Mobile", "Barrel"],
+      "drop_in_price": "$35 (60 min) or $20 (30 min)",
+      "session_length": "30 or 60 minutes",
+      "cold_plunge": "Puget Sound",
+      "schedule": "Unknown. Site lists Thursday-Saturday at Alki; permit-dependent.",
+      "booking_url": "https://www.hotrockssaunaclub.com/",
+      "source_urls": ["https://www.hotrockssaunaclub.com/"],
+      "notes": "Unlimited membership $100/month. Sessions are tentative until park permits are confirmed.",
+      "last_checked": "2026-10-21"
+    },
+    {
+      "name": "Seattle Sauna (floating, Lake Union)",
+      "neighborhood": "Wallingford / Lake Union (Seattle Marina)",
+      "address": "2401 N Northlake Way, Seattle, WA 98103",
+      "sauna_type": ["Wood-fired", "Floating (dockside)"],
+      "drop_in_price": "From $49 per person",
+      "session_length": "90 minutes",
+      "cold_plunge": "Cold bucket shower and outdoor shower (no plunge tub)",
+      "schedule": "Mixed guided social sessions, up to 10 guests. Open year-round.",
+      "booking_url": "https://seattlesauna.com/",
+      "source_urls": ["https://seattlesauna.com/"],
+      "notes": "Towels, water and changing rooms provided. Sessions stay dockside.",
+      "last_checked": "2026-10-21"
+    },
+    {
+      "name": "Good Day Sauna (Lincoln Park)",
+      "neighborhood": "Lincoln Park, West Seattle",
+      "address": "Lincoln Park, West Seattle, WA",
+      "sauna_type": ["Wood-fired", "Mobile", "Cedar"],
+      "drop_in_price": "$35 (implied by the venue's 5-pack: $150, \"$5 off every session\")",
+      "session_length": "Unknown",
+      "cold_plunge": "Puget Sound (optional)",
+      "schedule": "Mixed; 18+. Friday-Sunday at Lincoln Park.",
+      "booking_url": "https://www.gooddaysauna.com/",
+      "source_urls": ["https://www.gooddaysauna.com/", "https://www.gooddaysauna.com/packages"],
+      "notes": "Fits up to 15 people. Iki wood stove.",
+      "last_checked": "2026-10-21"
+    },
+    {
+      "name": "Wild Haus Floating Saunas",
+      "neighborhood": "Eastlake / Lake Union",
+      "address": "10 E Allison St, Seattle, WA (meeting point)",
+      "sauna_type": ["Floating (cruising)", "Heat source unknown"],
+      "drop_in_price": "Unknown (third-party listings disagree; check booking page)",
+      "session_length": "Unknown",
+      "cold_plunge": "Lake Union",
+      "schedule": "Unknown",
+      "booking_url": "https://thewildhaus.com/pages/booking",
+      "source_urls": ["https://thewildhaus.com/pages/booking"],
+      "notes": "A sauna boat cruise rather than a classic drop-in; booking page describes a two-hour cruise. Pricier, special-occasion option.",
+      "last_checked": "2026-10-21"
+    }
+  ]
+}

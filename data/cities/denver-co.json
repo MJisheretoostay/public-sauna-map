@@ -1,0 +1,80 @@
+{
+  "slug": "denver-co",
+  "city": "Denver",
+  "state": "CO",
+  "state_name": "Colorado",
+  "intro": "Denver mixes an old-school Russian banya that has been running since 1927 with a wave of newer community sauna and cold-plunge spots, several of them outdoors next to breweries and yoga studios.",
+  "last_checked": "2026-10-21",
+  "venues": [
+    {
+      "name": "Lake Steam Baths",
+      "neighborhood": "West Colfax / Sloan's Lake area",
+      "address": "3540 W Colfax Ave, Denver, CO 80204",
+      "sauna_type": ["Russian banya", "Steam room", "Sauna (heat source unknown)"],
+      "drop_in_price": "$32 (unlimited time); lock rental $3",
+      "session_length": "Unlimited",
+      "cold_plunge": "Cold plunge",
+      "schedule": "Single-gender, nude (swimwear allowed). Men: Wed, Fri, Sat 8:30 AM-10 PM; Sun 6 AM-9 PM. Women: Mon & Thu 8:30 AM-9 PM. Closed Tue. No co-ed days.",
+      "booking_url": "https://www.lakesteam.com/",
+      "source_urls": ["https://www.lakesteam.com/faqs"],
+      "notes": "Operating since 1927. Sells veniki (oak branches). No refunds; ask for a tour before paying.",
+      "last_checked": "2026-10-21"
+    },
+    {
+      "name": "Red Rock Sauna (at Hogshead Brewery)",
+      "neighborhood": "Sloan Lake / West Highland",
+      "address": "4460 W 29th Ave, Denver, CO 80212",
+      "sauna_type": ["Propane-fired", "Cedar", "Outdoor"],
+      "drop_in_price": "$35",
+      "session_length": "50 minutes",
+      "cold_plunge": "Cold plunge tubs (37-60°F)",
+      "schedule": "Mixed, up to 10 per session. Mon & Fri 7-11 AM and 4-9 PM; Tue-Thu 4-9 PM; Sat-Sun 7 AM-8 PM. Walk-ins if spots are open.",
+      "booking_url": "https://redrocksauna.com/",
+      "source_urls": ["https://redrocksauna.com/", "https://redrocksauna.com/pages/faq"],
+      "notes": "Swimsuit or athletic wear required. Changing tent provided.",
+      "last_checked": "2026-10-21"
+    },
+    {
+      "name": "Garden Sauna",
+      "neighborhood": "Cheesman Park / City Park West",
+      "address": "1407 N Ogden St, Denver, CO 80218",
+      "sauna_type": ["Wood-fired (per venue pricing page)", "Outdoor"],
+      "drop_in_price": "$33",
+      "session_length": "1 hour",
+      "cold_plunge": "Outdoor cold plunges",
+      "schedule": "Mixed, shared space. Sun 9 AM-2 PM & 4-9 PM; Mon, Wed-Fri 4-9 PM; Sat 10 AM-7 PM; closed Tue. Last session starts 1 hour before close.",
+      "booking_url": "https://www.gardensaunadenver.com/pricing",
+      "source_urls": ["https://www.gardensaunadenver.com/", "https://www.gardensaunadenver.com/pricing"],
+      "notes": "Enter through Rooted Heart Yoga. Swimwear and towel required.",
+      "last_checked": "2026-10-21"
+    },
+    {
+      "name": "Therma Haus",
+      "neighborhood": "RiNo Art District",
+      "address": "2520 Wewatta Way, Denver, CO 80216",
+      "sauna_type": ["Electric", "Finnish-style (löyly allowed)"],
+      "drop_in_price": "$40",
+      "session_length": "Unknown",
+      "cold_plunge": "4 stainless plunge tubs (40-60°F)",
+      "schedule": "Mixed. Mon & Wed 4-8:30 PM; Tue, Thu, Fri 6-11:30 AM & 4-8:30 PM; Sat-Sun 8 AM-1:30 PM & 4-8:30 PM.",
+      "booking_url": "https://thermahausdenver.com/",
+      "source_urls": ["https://thermahausdenver.com/", "https://thermahausdenver.com/the-difference/"],
+      "notes": "Two cedar saunas, phone-free. Free garage parking in the AMLI Art District building.",
+      "last_checked": "2026-10-21"
+    },
+    {
+      "name": "PORTAL° Thermaculture Denver",
+      "neighborhood": "LoHi (inside the Nurture marketplace building)",
+      "address": "2949 Federal Blvd, Denver, CO 80211",
+      "sauna_type": ["Outdoor", "Heat source unknown"],
+      "drop_in_price": "$32.50 per credit (sessions booked with credits)",
+      "session_length": "Unknown",
+      "cold_plunge": "3 individual cold plunge tubs",
+      "schedule": "Mixed; 18+. Sun 8 AM-10 PM; Mon, Wed-Fri 7 AM-10 PM; Tue 2-10 PM; Sat 8 AM-10 PM.",
+      "booking_url": "https://www.portalthermaculture.com/denver",
+      "source_urls": ["https://www.portalthermaculture.com/denver"],
+      "notes": "Two saunas. Venue site does not say how many credits one session costs.",
+      "last_checked": "2026-10-21"
+    }
+  ]
+}
