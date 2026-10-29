@@ -1,0 +1,112 @@
+{
+  "slug": "chicago-il",
+  "city": "Chicago",
+  "state": "IL",
+  "state_name": "Illinois",
+  "intro": "Chicago's public sauna scene is anchored by old-school Russian-style bathhouses: Chicago Bath House in Wicker Park says it has operated since 1906, and Chicago Sweatlodge on the Northwest Side is a men-only banya with a restaurant. Newer options include a Finnish sauna and plunge club in Fulton Market, a thermal-bath circuit in River West, and a wood-fired sauna on Oak Street Beach that uses Lake Michigan water for its plunge. The bathhouses take walk-ins; most newer spots sell timed sessions, so book ahead.",
+  "last_checked": "2026-10-29",
+  "venues": [
+    {
+      "name": "Chicago Bath House",
+      "neighborhood": "Wicker Park",
+      "address": "1914 W Division St, Chicago, IL 60622",
+      "sauna_type": [
+        "Russian banya",
+        "Bathhouse"
+      ],
+      "drop_in_price": "$50 adult all-day admission (no re-entry); $25 child under 12 with an adult",
+      "session_length": "All day",
+      "cold_plunge": "Cold pool",
+      "schedule": "Walk-in, no reservation needed. Swimsuit required in the co-ed facility. Mon-Thu 10am-11pm, Fri 10am-midnight, Sat 7am-midnight, Sun 7am-11pm.",
+      "booking_url": "https://www.bathhousechicago.com/",
+      "source_urls": [
+        "https://www.bathhousechicago.com/faq-red-square-spa.html",
+        "https://www.bathhousechicago.com/sauna-red-square-chicago.html",
+        "https://www.bathhousechicago.com/request-event-red-square-chicago.html"
+      ],
+      "notes": "Formerly Red Square Spa. Robe, towels and slippers included with admission. Platza (venik) treatments from $50, restaurant and bar on site. Gift cards are sold in person only.",
+      "last_checked": "2026-10-29"
+    },
+    {
+      "name": "Chicago Sweatlodge",
+      "neighborhood": "Portage Park / Old Irving Park",
+      "address": "3500 N Cicero Ave, Chicago, IL 60641",
+      "sauna_type": [
+        "Russian banya",
+        "Steam room",
+        "Bathhouse"
+      ],
+      "drop_in_price": "Unknown",
+      "session_length": "All day",
+      "cold_plunge": "Cold pool",
+      "schedule": "Men only. Unlimited same-day use. Hours Unknown (confirm before visiting).",
+      "booking_url": "https://www.chicagosweatlodge.com/",
+      "source_urls": [
+        "https://www.wbez.org/arts-culture/2025/03/26/top-saunas-spas-chicago-bath-house",
+        "https://www.chicagosweatlodge.com/"
+      ],
+      "notes": "Dry Russian sauna plus a wet Turkish-style room, with a restaurant on site. The venue's own website currently shows little information, so call ahead for prices and hours. WBEZ listed admission at $40 in March 2025.",
+      "last_checked": "2026-10-29"
+    },
+    {
+      "name": "Eastend",
+      "neighborhood": "Fulton Market",
+      "address": "1132 W Fulton Market, Chicago, IL 60607 (entrance on May St)",
+      "sauna_type": [
+        "Bathhouse"
+      ],
+      "drop_in_price": "$45",
+      "session_length": "Up to 75 minutes",
+      "cold_plunge": "Plunge pools (40-55°F)",
+      "schedule": "Booked sessions. Mon-Thu 7am-12:30pm and 3:30-9pm, Fri 7am-9pm, Sat-Sun 9am-6pm. Bathing suit required.",
+      "booking_url": "https://practiceeastend.com/book",
+      "source_urls": [
+        "https://practiceeastend.com/treatments/finnish-sauna-cold-plunge",
+        "https://practiceeastend.com/packages-and-memberships"
+      ],
+      "notes": "Finnish-style sauna set at 180-194°F with towel-waving infusions. Arrive 15 minutes early; towels provided; barefoot beyond the changing rooms. 5-pack $179, 10-pack $335.",
+      "last_checked": "2026-10-29"
+    },
+    {
+      "name": "AIRE Ancient Baths Chicago",
+      "neighborhood": "River West",
+      "address": "800 W Superior St, Chicago, IL 60642",
+      "sauna_type": [
+        "Bathhouse",
+        "Steam room"
+      ],
+      "drop_in_price": "Unknown (a September 2026 guide listed thermal-bath circuits from $150)",
+      "session_length": "Unknown",
+      "cold_plunge": "Cold bath",
+      "schedule": "Booking required. Mon 8am-10pm, Tue-Wed 9am-10pm, Thu 9am-11pm, Fri-Sun 8am-11pm; hours may vary on holidays.",
+      "booking_url": "https://beaire.com/en/aire-ancient-baths-chicago",
+      "source_urls": [
+        "https://beaire.com/en/aire-ancient-baths-chicago",
+        "https://citysaunas.com/sauna-chicago/"
+      ],
+      "notes": "Thermal baths at several temperatures in a converted factory building, closest stops Chicago and Grand. A pricier, quieter bathing circuit rather than a social sauna.",
+      "last_checked": "2026-10-29"
+    },
+    {
+      "name": "Oak St. Sauna",
+      "neighborhood": "Gold Coast (Oak Street Beach)",
+      "address": "1001 N Lake Shore Dr, Chicago, IL",
+      "sauna_type": [
+        "Wood-fired",
+        "Outdoor",
+        "Seasonal"
+      ],
+      "drop_in_price": "$45",
+      "session_length": "75 minutes",
+      "cold_plunge": "Lake Michigan water plunge",
+      "schedule": "Social sessions up to 9 seats; 2-hour private rentals for up to 11 people. Seasonal (last season ran through March 31); current season dates Unknown.",
+      "booking_url": "https://www.oakstreetsauna.com/",
+      "source_urls": [
+        "https://www.oakstreetsauna.com/",
+        "https://www.axios.com/local/chicago/2025/11/13/oak-street-sauna-cold-plunge"
+      ],
+      "notes": "Bring a swimsuit, towel, water bottle and flip-flops (towels $20). Changing room and lockers, but no bathroom at the sauna. Monthly unlimited pass $200. Hosts themed nights.",
+      "last_checked": "2026-10-29"
+    }
+  ]
+}
