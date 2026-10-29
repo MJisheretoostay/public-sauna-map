@@ -6,8 +6,8 @@
   "home_gear_links": [
     {
       "label": "Wood-fired & electric home saunas (Sweaty Yeti)",
-      "url": "#PLACEHOLDER-affiliate-sweaty-yeti",
-      "placeholder": true
+      "url": "https://sweatyyetisauna.com/?sld=191",
+      "placeholder": false
     },
     {
       "label": "Cold plunge tubs (Plunge)",
