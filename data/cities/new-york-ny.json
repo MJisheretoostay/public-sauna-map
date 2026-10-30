@@ -1,0 +1,149 @@
+{
+  "slug": "new-york-ny",
+  "city": "New York",
+  "state": "NY",
+  "state_name": "New York",
+  "intro": "New York's public sauna scene runs from the walk-in Russian & Turkish Baths in the East Village, which says it has served the city since 1892, to modern bathhouses with banyas, Finnish-style saunas and cold pools in Manhattan and Brooklyn. Brooklyn's World Spa has a large banya and many heat rooms, and QC NY puts saunas and outdoor heated pools on Governors Island. Most newer venues sell timed day passes online, so book ahead, while the Russian & Turkish Baths only takes walk-ins.",
+  "last_checked": "2026-10-30",
+  "venues": [
+    {
+      "name": "Russian & Turkish Baths",
+      "neighborhood": "East Village",
+      "address": "268 E 10th St, New York, NY 10009",
+      "sauna_type": ["Russian banya", "Steam room", "Bathhouse"],
+      "drop_in_price": "$60 single admission (plus sales tax and card fees)",
+      "session_length": "Unknown",
+      "cold_plunge": "Cold plunge pool",
+      "schedule": "Walk-in only, no reservations. 18+. Mostly co-ed, with men-only hours Thu 12-5pm and Sun 9am-2pm. Mon-Fri 12pm-10pm, Sat 10am-10pm, Sun 9am-10pm.",
+      "booking_url": "https://www.russianturkishbaths.com/",
+      "source_urls": [
+        "https://www.russianturkishbaths.com/hours",
+        "https://www.russianturkishbaths.com/baths",
+        "https://www.russianturkishbaths.com/frequently-asked-questions"
+      ],
+      "notes": "Five saunas and steam rooms, roof deck and restaurant. Robes, towels, shorts, slippers and lockers provided; you must be covered during co-ed hours. Two owners run alternating shifts, and passes only work on the shift of the owner you bought from.",
+      "last_checked": "2026-10-30"
+    },
+    {
+      "name": "Bathhouse Flatiron",
+      "neighborhood": "Flatiron",
+      "address": "14 W 22nd St, New York, NY 10010",
+      "sauna_type": ["Russian banya", "Electric", "Steam room", "Infrared", "Bathhouse"],
+      "drop_in_price": "Day pass price varies by day and time; the site lists starting prices between $29 and $39",
+      "session_length": "Unknown",
+      "cold_plunge": "Two cold pools (45°F and 50°F)",
+      "schedule": "Daily 8am-11:30pm. Timed day passes booked online. Aufguss (guided sauna) sessions daily.",
+      "booking_url": "https://bathhouseflatiron.try.be/",
+      "source_urls": [
+        "https://bathhouse.com/flatiron",
+        "https://bathhouse.com/"
+      ],
+      "notes": "Gas-furnace banya (185-195°F), dry sauna up to 185°F, steam room, infrared sauna, plus hot, neutral and salt pools. Massages and scrubs extra.",
+      "last_checked": "2026-10-30"
+    },
+    {
+      "name": "Bathhouse Williamsburg",
+      "neighborhood": "Williamsburg",
+      "address": "103 N 10th St, Brooklyn, NY 11249",
+      "sauna_type": ["Russian banya", "Electric", "Steam room", "Bathhouse"],
+      "drop_in_price": "From $39 (varies by day and time)",
+      "session_length": "Unknown",
+      "cold_plunge": "Two cold plunges (45°F and 50°F)",
+      "schedule": "Daily 8am-11:30pm. Timed day passes booked online. Complimentary guided sessions in the Event Sauna.",
+      "booking_url": "https://bathhousewilliamsburg.try.be/",
+      "source_urls": [
+        "https://bathhouse.com/williamsburg",
+        "https://bathhouse.com/"
+      ],
+      "notes": "Stone-heated banya, dry sauna, tropical sauna, event sauna and steam room, plus hot and neutral pools and a rooftop pool and bar (open in winter as weather permits).",
+      "last_checked": "2026-10-30"
+    },
+    {
+      "name": "Bathhouse Atlantic Ave",
+      "neighborhood": "Boerum Hill",
+      "address": "540 Atlantic Ave, Brooklyn, NY 11217",
+      "sauna_type": ["Russian banya", "Electric", "Outdoor", "Steam room", "Infrared", "Bathhouse"],
+      "drop_in_price": "From $29 (varies by day and time)",
+      "session_length": "Unknown",
+      "cold_plunge": "Cold plunge (50°F)",
+      "schedule": "Daily 8am-11:30pm. Timed day passes booked online. Complimentary Aufguss sessions.",
+      "booking_url": "https://bathhouse.com/atlantic-ave",
+      "source_urls": [
+        "https://bathhouse.com/atlantic-ave",
+        "https://bathhouse.com/"
+      ],
+      "notes": "Stone-heated banya, event sauna, year-round outdoor backyard sauna and heated backyard pool, steam room and infrared sauna. Canteen with light bites.",
+      "last_checked": "2026-10-30"
+    },
+    {
+      "name": "World Spa",
+      "neighborhood": "Unknown",
+      "address": "1571 McDonald Ave, Brooklyn, NY 11230",
+      "sauna_type": ["Russian banya", "Steam room", "Infrared", "Bathhouse"],
+      "drop_in_price": "Unknown",
+      "session_length": "Unlimited stay on standard passes; holiday passes limited to 4 hours",
+      "cold_plunge": "Cold plunge",
+      "schedule": "18+ only. Sun-Thu 10am-10pm, Fri-Sat 9am-11pm. Bring a bathing suit and indoor sandals; photo ID matching the purchase card required.",
+      "booking_url": "https://worldspa.com/",
+      "source_urls": [
+        "https://worldspa.com/",
+        "https://worldspa.com/faqs/",
+        "https://worldspa.com/admission/"
+      ],
+      "notes": "Grand Banya and Petite Banya (176-194°F), event sauna, clay and hay sauna, aroma sauna, Moroccan and Turkish hammams, snow room, salt room and pools. Valet parking $15. Robes and towels provided.",
+      "last_checked": "2026-10-30"
+    },
+    {
+      "name": "QC NY",
+      "neighborhood": "Governors Island",
+      "address": "112 Andes Rd, Governors Island, New York, NY 10004",
+      "sauna_type": ["Bathhouse", "Steam room", "Outdoor"],
+      "drop_in_price": "From $116 (3-hour morning entrance); from $124 (5 hours); from $158 (no time limit)",
+      "session_length": "3 hours, 5 hours, or no time limit depending on ticket",
+      "cold_plunge": "Unknown",
+      "schedule": "Sun-Thu 9am-10pm, Fri-Sat 9am-11pm. Reached by ferry to Governors Island.",
+      "booking_url": "https://www.qcny.com/admissions-prices",
+      "source_urls": [
+        "https://www.qcny.com/",
+        "https://www.qcny.com/admissions-prices",
+        "https://www.qcny.com/faq"
+      ],
+      "notes": "Timber saunas, steam rooms, heated outdoor pools with skyline views, relaxation rooms and a bistro. Towels, robe and slippers included. Bring a bathing suit.",
+      "last_checked": "2026-10-30"
+    },
+    {
+      "name": "Othership Flatiron",
+      "neighborhood": "Flatiron",
+      "address": "23 W 20th St, New York, NY 10011",
+      "sauna_type": ["Bathhouse"],
+      "drop_in_price": "Unknown",
+      "session_length": "75 minutes (Free Flow and guided classes); 120 minutes (Evening Social)",
+      "cold_plunge": "Ice baths",
+      "schedule": "18+. Booked sessions: self-guided Free Flow, quieter Free Flow, guided classes and evening socials. Alcohol-free.",
+      "booking_url": "https://www.othership.us/flatiron",
+      "source_urls": [
+        "https://www.othership.us/flatiron",
+        "https://www.othership.us/first-timers"
+      ],
+      "notes": "Music-driven group sauna and ice bath sessions with guides. Intro packs for first-timers are listed on the site.",
+      "last_checked": "2026-10-30"
+    },
+    {
+      "name": "Othership Williamsburg",
+      "neighborhood": "Williamsburg",
+      "address": "25 Kent Ave, Brooklyn, NY 11249",
+      "sauna_type": ["Bathhouse"],
+      "drop_in_price": "Unknown",
+      "session_length": "75 minutes (Free Flow and guided classes); 120 minutes (Evening Social)",
+      "cold_plunge": "Ice baths",
+      "schedule": "18+. Booked sessions: self-guided Free Flow, quieter Free Flow, guided classes and evening socials. Alcohol-free.",
+      "booking_url": "https://www.othership.us/williamsburg",
+      "source_urls": [
+        "https://www.othership.us/williamsburg",
+        "https://www.othership.us/first-timers"
+      ],
+      "notes": "Near Domino Park. Music-driven group sauna and ice bath sessions with guides.",
+      "last_checked": "2026-10-30"
+    }
+  ]
+}
