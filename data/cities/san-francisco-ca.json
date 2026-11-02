@@ -1,0 +1,97 @@
+{
+  "slug": "san-francisco-ca",
+  "city": "San Francisco",
+  "state": "CA",
+  "state_name": "California",
+  "intro": "San Francisco's public sauna options range from Archimedes Banya, a large Russian-style bathhouse on the Bay in Hunters Point, to Japanese-inspired communal baths in Japantown and the Tenderloin. Newer spots include a waterfront barrel sauna with a cold plunge at Crane Cove Park and a sauna garden on Post Street. Most venues take reservations, and several rotate between co-ed and single-gender days, so check the schedule before you go.",
+  "last_checked": "2026-11-02",
+  "venues": [
+    {
+      "name": "Archimedes Banya",
+      "neighborhood": "Hunters Point",
+      "address": "748 Innes Ave, San Francisco, CA 94124",
+      "sauna_type": ["Russian banya", "Electric", "Steam room", "Bathhouse"],
+      "drop_in_price": "$72 Basic Banya Pass (3-hour entry); $60 weekday Happy Hour pass (entry 12-4pm, 3 hours); $95 All Day Pass",
+      "session_length": "3 hours (Basic and Happy Hour passes) or all day",
+      "cold_plunge": "Cold water plunge pool",
+      "schedule": "18+ with valid government ID. Mon, Wed, Thu, Fri 12pm-11pm; Sat-Sun 10am-11pm; last check-in 9pm. Women's Night 5-10pm on the first Tuesday of the month and Men's Night 5-10pm on the third Tuesday.",
+      "booking_url": "https://go.booker.com/location/ARCHIMEDESBANYASF/service-menu",
+      "source_urls": [
+        "https://banyasf.com/essentials/",
+        "https://banyasf.com/hours/",
+        "https://banyasf.com/about/banya-facilities/"
+      ],
+      "notes": "Two Russian saunas with large tiled stoves (170-210°F), a Finnish dry sauna, a Turkish hammam steam room, warm pools, jacuzzis, a bar mezzanine and a roof deck with Bay views. Aromatherapy sessions daily at 3pm, 7pm and 9pm. Heat source for the saunas is not stated, so treat the type as approximate.",
+      "last_checked": "2026-11-02"
+    },
+    {
+      "name": "Kabuki Springs & Spa",
+      "neighborhood": "Japantown",
+      "address": "1750 Geary Blvd, San Francisco, CA 94115",
+      "sauna_type": ["Bathhouse", "Steam room"],
+      "drop_in_price": "$49 communal bath (any day); $20 with a booked spa service",
+      "session_length": "2.5 hours (extra 1.5 hours for $25)",
+      "cold_plunge": "Cold pool (55°F)",
+      "schedule": "Reservations required. Women: Sun, Wed, Fri (bathing suit optional). Men: Thu, Sat (bathing suit optional). All gender: Mon, Tue (bathing suits required). Hours Mon 2pm-8pm, Tue-Sun 10am-9:30pm. Photo ID required; ages 12-18 only with a parent or guardian.",
+      "booking_url": "https://go.booker.com/location/kabuki",
+      "source_urls": [
+        "https://kabukisprings.com/springs-pricing-info/",
+        "https://kabukisprings.com/springs/"
+      ],
+      "notes": "Japanese-inspired communal bathhouse in the Japan Center, open since 1968. Hot pool (104°F), cedar-lined dry sauna (150°F), steam room (120°F) and seated Japanese-style showers. Quiet house: no talking and no phones in the baths.",
+      "last_checked": "2026-11-02"
+    },
+    {
+      "name": "Onsen Bath & Restaurant",
+      "neighborhood": "Tenderloin",
+      "address": "466 Eddy St, San Francisco, CA 94109",
+      "sauna_type": ["Bathhouse", "Steam room"],
+      "drop_in_price": "$50",
+      "session_length": "2 hours",
+      "cold_plunge": "Overhead cold plunge shower",
+      "schedule": "18+. Mon 4pm-10pm men (bathing suit optional); Wed 4pm-10pm women (bathing suit optional); Thu 2pm-10pm co-ed; Fri-Sun 10am-10pm co-ed (bathing suits required on co-ed days). Reservations recommended; walk-ins welcome based on availability. Max 4 guests per reservation.",
+      "booking_url": "https://www.exploretock.com/onsenurbanbathandrestaurant/",
+      "source_urls": [
+        "https://www.onsensf.com/bathing",
+        "https://www.onsensf.com/new-page"
+      ],
+      "notes": "Small Japanese sento-style bathhouse with a 104°F communal tub, redwood sauna and steam room. Robe, towel, sandals, locker and tea included. Bath + dinner option Thursday-Sunday. No refunds on cancellations within 24 hours. Garage across the street at 469 Eddy St.",
+      "last_checked": "2026-11-02"
+    },
+    {
+      "name": "Dogpatch Paddle Waterfront Sauna",
+      "neighborhood": "Dogpatch (Crane Cove Park)",
+      "address": "701 Illinois St, Unit A, San Francisco, CA 94107",
+      "sauna_type": ["Outdoor"],
+      "drop_in_price": "$25 public session sauna only; $35 with cold plunge",
+      "session_length": "1 hour",
+      "cold_plunge": "Cold plunge (about 49°F, ranges 36-55°F)",
+      "schedule": "Public sessions Tue-Sun 9am-5pm, closed Mondays. Shared sessions up to 4 people; private sessions also available. Ages 16+. Walk-ins usually available on quiet weekdays; reserve ahead on weekends.",
+      "booking_url": "https://www.dogpatchpaddle.com/sauna",
+      "source_urls": [
+        "https://www.dogpatchpaddle.com/sauna",
+        "https://www.dogpatchpaddle.com/",
+        "https://www.dogpatchpaddle.com/blog/waterfront-sauna-san-francisco/"
+      ],
+      "notes": "Barrel sauna kept around 190°F, steps from the Bay at Crane Cove Park, run by a kayak and SUP rental shop. Showers, lockers and a changing room included. Bring swimwear and a towel; towels are required in the sauna and rent for $2.",
+      "last_checked": "2026-11-02"
+    },
+    {
+      "name": "Alchemy Springs Sauna Garden",
+      "neighborhood": "Lower Nob Hill",
+      "address": "939 Post St, San Francisco, CA 94109",
+      "sauna_type": ["Outdoor"],
+      "drop_in_price": "Unknown",
+      "session_length": "Unknown",
+      "cold_plunge": "Cold plunge tubs (per secondary guide)",
+      "schedule": "Limited hours posted on the booking page. 18+ (per secondary guide).",
+      "booking_url": "https://www.zettlor.com/c/alchemysprings",
+      "source_urls": [
+        "https://www.alchemysprings.com/visit",
+        "https://www.saunacityguide.com/san-francisco/alchemy-springs/"
+      ],
+      "notes": "A sauna garden open as a preview of a full bathhouse the operator says is opening soon. A local guide describes a large communal sauna with plunge tubs and outdoor showers and says to bring your own towel, robe and sandals. Check the booking page for current times and prices.",
+      "last_checked": "2026-11-02"
+    }
+  ]
+}
