@@ -103,7 +103,7 @@ def at_home(site):
         + "</li>" for l in site["home_gear_links"])
     return f"""<section class="athome"><h2 style="margin-top:0">Want one at home?</h2>
 <p class="muted">Buying guides for home saunas and cold plunges are coming soon. Some of these will become affiliate links,
-which means we may earn a commission if you buy (see our <a href="{bp(site, '/affiliate-disclosure/')}">disclosure</a>). None are active yet.</p>
+which means we may earn a commission if you buy (see our <a href="{bp(site, '/affiliate-disclosure/')}">disclosure</a>). Active right now: Sweaty Yeti and Topture.</p>
 <ul>{items}</ul></section>"""
 
 def fact(label, val):
@@ -229,13 +229,13 @@ def build():
 <ul><li>We don't make health or medical claims. Talk to a doctor if you have questions about whether sauna or cold water is right for you.</li>
 <li>Venues don't pay to be listed, and listings aren't ranked by payment.</li></ul>
 <h2>Money</h2>
-<p>The site may eventually earn money through affiliate links in home sauna and cold plunge buying guides. See the <a href="{bp(site, '/affiliate-disclosure/')}">affiliate disclosure</a>. As of today, no affiliate links are active.</p>
+<p>The site may eventually earn money through affiliate links in home sauna and cold plunge buying guides. See the <a href="{bp(site, '/affiliate-disclosure/')}">affiliate disclosure</a>. Currently active affiliate links: Sweaty Yeti and Topture.</p>
 <h2>Corrections</h2><p>Venues change prices, hours and locations often. If something is wrong, we want to fix it. A contact address is coming soon.</p>
 </div></main>""")
     write("/affiliate-disclosure/", f"Affiliate Disclosure | {site['name']}", f"How {site['name']} may earn money through affiliate links.",
           f"""<section class="hero"><div class="wrap"><h1>Affiliate disclosure</h1></div></section><main><div class="wrap">
 <p>Some pages on {esc(site['name'])} may contain affiliate links, mainly in sections about home saunas and cold plunges. If you click one and make a purchase, we may earn a commission at no extra cost to you. Affiliate links are marked with <code>rel="sponsored"</code>.</p>
-<p><strong>Current status:</strong> no affiliate partnerships are active yet. Links marked "PLACEHOLDER" don't go anywhere.</p>
+<p><strong>Current status:</strong> affiliate links with Sweaty Yeti and Topture are active. Other links marked "PLACEHOLDER" don't go anywhere yet.</p>
 <p>Affiliate relationships never affect which public saunas are listed or how they're described. Venue listings are not paid placements.</p>
 <p>As an independent site, we follow the U.S. FTC's guidance on endorsements and disclosures.</p>
 </div></main>""")
