@@ -1,0 +1,62 @@
+{
+  "slug": "duluth-mn",
+  "city": "Duluth",
+  "state": "MN",
+  "state_name": "Minnesota",
+  "intro": "Duluth has a long community sauna tradition, and today's public options include a 1920s-era steam bath downtown, a harborside Nordic sauna with a floating sauna and Lake Superior cold plunge at Pier B, and a mobile wood-fired sauna that sets up community sessions around town. Hours and locations change by season, so confirm with each venue before you go.",
+  "last_checked": "2026-11-03",
+  "venues": [
+    {
+      "name": "Cedar & Stone Nordic Sauna (Pier B flagship)",
+      "neighborhood": "Canal Park / Duluth harbor",
+      "address": "800 W Railroad St, Duluth, MN 55802",
+      "sauna_type": ["Wood-fired", "Electric", "Floating", "Outdoor"],
+      "drop_in_price": "$49 per guest for Open Sauna (walk-ups welcome, no reservation) or a Social Sauna session; $30 local rate via email promo code; private sessions from $79 per guest",
+      "session_length": "At least 90 minutes for Open Sauna; 75 minutes for Social Sauna and social floating sauna",
+      "cold_plunge": "Harborside natural cold plunge in Lake Superior (included, optional)",
+      "schedule": "Thursday-Monday 9am-9pm. Open Sauna sessions start every 45 minutes from 2:45pm to 8:45pm. Social sessions are shared with up to 10 guests; all other session types are reserved in advance.",
+      "booking_url": "https://cedarandstonesauna.com/sauna-with-us/duluth-flagship-location/",
+      "source_urls": [
+        "https://cedarandstonesauna.com/sauna-with-us/duluth-flagship-location/",
+        "https://cedarandstonesauna.com/sauna-with-us/duluth-events/",
+        "https://canalpark.com/listing/cedar-and-stone-nordic-sauna/"
+      ],
+      "notes": "Three saunas on site: a wood-fired social sauna, an electric private sauna and a wood-fired floating sauna. Guided sessions with tea, towels and outdoor cold showers. Bring a swimsuit and footwear for the plunge in freezing weather. Also offers a $25 monthly community cold plunge (second Sunday). The venue's page lists $49 for Open Sauna; third-party booking sites show different totals with fees.",
+      "last_checked": "2026-11-03"
+    },
+    {
+      "name": "Duluth Family Sauna",
+      "neighborhood": "Downtown Duluth",
+      "address": "18 N 1st Ave E, Duluth, MN 55802",
+      "sauna_type": ["Bathhouse", "Steam room"],
+      "drop_in_price": "Bull Pen (men only) $24.25 one-time entry or $27.25 day pass; private room $20.25 for one person, $28.25 for two, $43.25 for three; $13.75 seniors (65+) and veterans",
+      "session_length": "Private rooms up to 2 hours; Bull Pen stay as long as you like until close",
+      "cold_plunge": "Unknown",
+      "schedule": "Mon, Wed, Fri, Sat and Sun noon-10pm; closed Tue and Thu. Cash only. Photo ID required for private rooms. Free visit during your birthday month.",
+      "booking_url": "https://duluthsauna.com/pricing/",
+      "source_urls": [
+        "https://duluthsauna.com/",
+        "https://duluthsauna.com/pricing/"
+      ],
+      "notes": "Operating at this location since the 1920s and described by the venue as a steam bath near Lake Superior. The Bull Pen is men only; private rooms are open to men and women. Bring your own towel for a reduced rate. No massage services. Heat type is not stated beyond 'steam bath'.",
+      "last_checked": "2026-11-03"
+    },
+    {
+      "name": "Sauna du Nord",
+      "neighborhood": "Varies (Duluth area)",
+      "address": "Location varies (Duluth, MN area)",
+      "sauna_type": ["Wood-fired", "Mobile", "Outdoor"],
+      "drop_in_price": "$35 per seat at a public session (posted on the venue's site); $245 private session for up to 10",
+      "session_length": "75 minutes",
+      "cold_plunge": "Unknown",
+      "schedule": "Community sessions run at rotating locations; the site's last posted residency was Caribou Lake in January 2026 (Wed, Thu, Sat). Current dates and locations Unknown; check the venue's Facebook page.",
+      "booking_url": "https://www.saunadunord.com/",
+      "source_urls": [
+        "https://www.saunadunord.com/",
+        "https://www.bestofthemidwest.com/ready-set-sweat-at-a-sauna-near-you"
+      ],
+      "notes": "Locally owned mobile sauna on wheels with a wood stove and changing room; seats roughly 6-10. Seats are bookable when sessions are posted, and private events are by request. Confirm current availability before planning a trip.",
+      "last_checked": "2026-11-03"
+    }
+  ]
+}

@@ -44,7 +44,7 @@ Re-check the oldest `last_checked` city: re-verify price, hours and open/closed 
 Seasonal venues (lake saunas, park permits) change the most.
 
 ## City backlog (rough priority)
-Portland OR, Chicago IL, New York NY, San Francisco CA, Duluth MN, St. Paul MN, Boston MA, Austin TX,
+Portland OR, Chicago IL, New York NY, San Francisco CA, Duluth MN (done), St. Paul MN, Boston MA, Austin TX,
 Los Angeles CA, Salt Lake City UT, Boulder CO, Bozeman MT, Anchorage AK, Detroit MI, Philadelphia PA,
 Brooklyn NY, Oakland CA, Madison WI, Milwaukee WI, Burlington VT.
 
