@@ -1,0 +1,83 @@
+{
+  "slug": "boston-ma",
+  "city": "Boston",
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "intro": "Boston's public sauna scene mixes old and new: Dillon's Russian Steam Bath in nearby Chelsea has operated since 1885, Kelo Spa & Steam in Newton Highlands runs a banya-style sauna built from Finnish kelo logs, and Moki runs Nordic-style social saunas with cold plunges in Allston and South Boston. Hours, men-only and women-only days, and seasonal changes vary, so confirm with each venue before you go.",
+  "last_checked": "2026-11-04",
+  "venues": [
+    {
+      "name": "Moki Sauna South Boston",
+      "neighborhood": "South Boston",
+      "address": "385 Dorchester Ave, South Boston, MA",
+      "sauna_type": ["Wood-fired", "Outdoor"],
+      "drop_in_price": "$59 per person for a Social Session (shared sauna, includes access to all saunas and cold plunges during the session); 1-hour sessions also available (price Unknown)",
+      "session_length": "Sessions typically last about 90 minutes plus changing time; 1-hour sessions also offered",
+      "cold_plunge": "Indoor cedar barrel cold plunge, plus additional outdoor plunges in the courtyard (included)",
+      "schedule": "Mon-Thu 5pm-9pm, Fri 4pm-8pm, Sat 9am-1pm, Sun 8am-8pm per the venue's footer. Reservations recommended; walk-ins based on availability. Quiet Hours (silent sessions) run Wednesday evenings and Sunday mornings.",
+      "booking_url": "https://www.mokisauna.com/social-sessions",
+      "source_urls": [
+        "https://www.mokisauna.com/southie",
+        "https://www.mokisauna.com/social-sessions",
+        "https://www.mokisauna.com/firsttime",
+        "https://www.saunacityguide.com/boston/"
+      ],
+      "notes": "Three traditional Nordic saunas, an indoor cedar-barrel plunge and an outdoor courtyard with its own sauna and plunge. Towels and sandals provided; bring a bathing suit (robes can be rented). Complimentary lockers. Private rentals (Cozy Cabin, Treehouse, Outdoor Sauna) are sold separately. Which of the saunas are wood-fired is Unknown.",
+      "last_checked": "2026-11-04"
+    },
+    {
+      "name": "Moki Sauna Allston (Zone 3)",
+      "neighborhood": "Allston",
+      "address": "267 Western Ave, Allston, MA",
+      "sauna_type": ["Wood-fired", "Outdoor"],
+      "drop_in_price": "$59 per person for a Social Session (shared sauna, includes access to all saunas and cold plunges during the session); 1-hour sessions also available (price Unknown)",
+      "session_length": "Sessions typically last about 90 minutes plus changing time; 1-hour sessions also offered",
+      "cold_plunge": "Large multi-person cold plunge (included)",
+      "schedule": "Mon/Wed/Thu 4pm-9pm, Fri 2pm-9pm, Sat 9am-9pm, Sun 9am-8pm per the venue's footer; Tuesday not listed. Reservations recommended; walk-ins based on availability. Quiet Hours (silent sessions) run Wednesday evenings and Sunday mornings.",
+      "booking_url": "https://www.mokisauna.com/social-sessions",
+      "source_urls": [
+        "https://www.mokisauna.com/allston",
+        "https://www.mokisauna.com/social-sessions",
+        "https://www.mokisauna.com/firsttime",
+        "https://www.saunacityguide.com/boston/"
+      ],
+      "notes": "Fully outdoor 'nordic sauna village' with two traditional Nordic saunas, a changing tent and lockers. Towels and sandals provided; bring a bathing suit. Private rentals (12-person wood-fired trailer, 8-person electric sauna) are sold separately.",
+      "last_checked": "2026-11-04"
+    },
+    {
+      "name": "Kelo Spa & Steam",
+      "neighborhood": "Newton Highlands (Newton)",
+      "address": "1639 Centre Street, Newton Highlands, MA 02461",
+      "sauna_type": ["Russian banya", "Steam room", "Bathhouse"],
+      "drop_in_price": "$69 per person for General Admission booked online (3 hours, includes robe and towel service); walk-ins without reservation $89 per person and availability is not guaranteed",
+      "session_length": "3 hours",
+      "cold_plunge": "Cold plunge (included)",
+      "schedule": "Banya hours: Mon 8:30am-9:15pm (men only), Tue 8:30am-9:15pm (women only), Wed-Fri 8:30am-9:15pm, Sat and Sun 7:45am-5:30pm plus 6pm-9pm. Gender policy on days other than Monday and Tuesday is Unknown.",
+      "booking_url": "https://www.kelospa.com/",
+      "source_urls": [
+        "https://www.kelospa.com/",
+        "https://www.saunacityguide.com/boston/"
+      ],
+      "notes": "Banya built from kelo timber logs imported from Lapland, Finland, plus steam room, lounge and juice bar. Extra paid services include platza, scrub and foam wash. Private 3-hour reservations start at $1,000 for up to 8 people.",
+      "last_checked": "2026-11-04"
+    },
+    {
+      "name": "Dillon's Russian Steam Bath",
+      "neighborhood": "Chelsea (just north of Boston)",
+      "address": "77 Chestnut Street, Chelsea, MA 02150",
+      "sauna_type": ["Russian banya", "Steam room", "Bathhouse"],
+      "drop_in_price": "$40 admission (2 hours); platza $24; oil rub $40 (30 min) or $60 (1 hour)",
+      "session_length": "2 hours",
+      "cold_plunge": "Unknown",
+      "schedule": "Mon 2pm-9pm (women only); Tue-Fri 11am-9pm (men only); Sat 11am-8pm (men only); Sun 7am-1pm (men only).",
+      "booking_url": "https://dillonsrussiansteambath.com/",
+      "source_urls": [
+        "https://dillonsrussiansteambath.com/",
+        "https://www.saunacityguide.com/boston/",
+        "https://www.bostonglobe.com/2024/01/26/lifestyle/saunas-public-baths-new-england/"
+      ],
+      "notes": "Traditional Russian-style steam bath in business since 1885, with a high-heat steam chamber (the venue says nearly 180 degrees on the upper benches), a wet steam room, showers, lounge and snack bar. Parking behind the building on Cherry Street. Separate men's and women's days only; there are no co-ed hours listed.",
+      "last_checked": "2026-11-04"
+    }
+  ]
+}
