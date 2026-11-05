@@ -1,0 +1,75 @@
+{
+  "slug": "austin-tx",
+  "city": "Austin",
+  "state": "TX",
+  "state_name": "Texas",
+  "intro": "Austin's public sauna scene is made up of drop-in social bathhouses and small sauna gardens, mostly in East Austin, South Lamar and North Loop. Ceremony Spa and Bathe run communal bathhouses with saunas and cold plunges, Sauna House runs a wood-burning Sauna Garden, and Cøntrast offers a walk-in garden sauna with two cold plunges. Prices, hours and session formats change, so confirm with each venue before you go.",
+  "last_checked": "2026-11-05",
+  "venues": [
+    {
+      "name": "Cøntrast (The Garden)",
+      "neighborhood": "East Austin (Casa de Luz Village East)",
+      "address": "1915 E Martin Luther King Jr Blvd #101, Austin, TX 78702",
+      "sauna_type": ["Electric", "Outdoor"],
+      "drop_in_price": "$29 per person for a 60-minute communal Garden session",
+      "session_length": "60 minutes (maximum 6 people in the Garden)",
+      "cold_plunge": "Two cold plunges and an outdoor shower (included)",
+      "schedule": "Sun-Thu 10am-9pm, Fri-Sat 10am-10pm. Walk-ins welcome for the Garden. Bathing suit required.",
+      "booking_url": "https://contrastatx.com/",
+      "source_urls": ["https://contrastatx.com/"],
+      "notes": "Communal 'Garden' sauna is described by the venue as a traditional wood sauna; whether it is wood-fired or electric is Unknown. Private suites (infrared sauna, cold plunge, shower) are sold separately at $49 solo / $65 for two.",
+      "last_checked": "2026-11-05"
+    },
+    {
+      "name": "Bathe",
+      "neighborhood": "East Austin (Cesar Chavez)",
+      "address": "2922 E Cesar Chavez, Austin, TX 78702",
+      "sauna_type": ["Bathhouse", "Steam room", "Infrared", "Wood-fired"],
+      "drop_in_price": "$55 per person for a regular 120-minute Soak Pass; $33 early-bird pass (Mon-Thu, start 8am-12pm); $29 late-night 60-minute pass (9pm-10pm)",
+      "session_length": "120 minutes (60 minutes for the late-night pass)",
+      "cold_plunge": "Cold plunges and soaking pools (included)",
+      "schedule": "Open daily 8am-10pm per the venue's website. Book online by time slot. Coworking access included with passes.",
+      "booking_url": "https://momence.com/BATHE/appointment-reservation/47810?boardId=124049",
+      "source_urls": [
+        "https://www.batheaustin.com/",
+        "https://www.batheaustin.com/contrast-therapy-austin",
+        "https://momence.com/BATHE/appointment-reservation/47810?boardId=124049"
+      ],
+      "notes": "Bathhouse garden with saunas, steam, cold plunges and soaking pools. Which saunas are wood-fired or infrared is only partly confirmed on the venue's own pages; ResortPass lists wood-fired, infrared and Finnish saunas. Massage and package add-ons are sold separately.",
+      "last_checked": "2026-11-05"
+    },
+    {
+      "name": "Ceremony Spa (Bathhouse)",
+      "neighborhood": "South Lamar / Zilker",
+      "address": "1706 S Lamar Blvd, Austin, TX 78704",
+      "sauna_type": ["Bathhouse", "Outdoor"],
+      "drop_in_price": "Unknown on the venue's public pages (shown in its online booking flow); a 2024 Do512 guide listed $44 for up to two hours",
+      "session_length": "Up to about 2 hours per the venue and a 2024 local guide",
+      "cold_plunge": "Two cold plunges: indoor (usually about 55°F) and outdoor (usually 40-45°F)",
+      "schedule": "Mon-Fri 10am-11pm, Sat-Sun 8am-11pm. Same-day bookings and walk-ins accepted; availability not guaranteed. Swimsuits required; towels provided.",
+      "booking_url": "https://ceremonyspa.com/sauna-cold-plunge-lounge/",
+      "source_urls": [
+        "https://ceremonyspa.com/",
+        "https://ceremonyspa.com/coldplunge/",
+        "https://ceremonyspa.com/faq/",
+        "https://2024.do512.com/p/cold-plunges-in-austin"
+      ],
+      "notes": "Communal bathhouse with a 16-person cedar sauna indoors and an 8-person sauna outdoors, plus lounge, tea and showers. Shareable 10-packs never expire; unlimited memberships available. Individual bookings need 3 hours' notice to cancel (late cancels and no-shows charged 50%).",
+      "last_checked": "2026-11-05"
+    },
+    {
+      "name": "Sauna House Austin (Sauna Garden)",
+      "neighborhood": "North Loop",
+      "address": "1507 W N Loop Blvd, Austin, TX 78756",
+      "sauna_type": ["Wood-fired", "Outdoor"],
+      "drop_in_price": "Unknown (price shown in the venue's online booking flow)",
+      "session_length": "75 minutes (Thermal Cycle)",
+      "cold_plunge": "Cold plunges (included)",
+      "schedule": "Sun 9am-10pm, Mon 4pm-10pm, Tue closed, Wed-Fri 12pm-10pm, Sat 9am-10pm. Co-ed shared space; phone-free; guests 18+, or 14+ with a legal guardian. Card required to hold a booking; cashless.",
+      "booking_url": "https://www.saunahouse.com/pages/austin-north-loop-run",
+      "source_urls": ["https://www.saunahouse.com/pages/austin-north-loop-run"],
+      "notes": "Interim 'Sauna Garden' concept with wood-burning Finnish saunas, cold plunges and heated lounge benches while a permanent space is built next door. Towels, private changing rooms and patio showers provided; bring a non-sheer swimsuit.",
+      "last_checked": "2026-11-05"
+    }
+  ]
+}
