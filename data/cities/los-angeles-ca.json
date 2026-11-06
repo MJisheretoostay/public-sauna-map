@@ -1,0 +1,125 @@
+{
+  "slug": "los-angeles-ca",
+  "city": "Los Angeles",
+  "state": "CA",
+  "state_name": "California",
+  "intro": "Los Angeles has a dense public bathhouse scene: Russian-style banyas in Mid-City and West Hollywood, large Korean spas near Koreatown, and a communal sauna-and-cold-plunge club in Venice. City Spa and Voda sell walk-in day passes for rock rooms, Finnish saunas and cold plunges; Wi Spa and Olympic Spa are classic Korean bathhouses with many heat rooms; Teddy's Hot House runs timed Finnish sauna sessions with ice baths. Prices, hours and co-ed rules change, so confirm with each venue before you go.",
+  "last_checked": "2026-11-06",
+  "venues": [
+    {
+      "name": "City Spa",
+      "neighborhood": "Mid-City / Pico",
+      "address": "5325 W Pico Blvd, Los Angeles, CA 90019",
+      "sauna_type": [
+        "Russian banya",
+        "Bathhouse",
+        "Steam room"
+      ],
+      "drop_in_price": "$85 entrance (per the venue's Services page)",
+      "session_length": "Unknown (day-use / block entry; not a timed session on the venue site)",
+      "cold_plunge": "Ice cold plunge (listed among amenities)",
+      "schedule": "Mon 2pm-10pm; Tue-Fri 10am-10pm; Sat 8am-10pm; Sun 8am-6pm. Co-ed all day Mondays and Wednesdays; co-ed from 2pm Saturdays. 18+. Walk-ins welcome for general spa use; massage needs 24-hour reservation.",
+      "booking_url": "https://www.lacityspa.com/",
+      "source_urls": [
+        "https://www.lacityspa.com/",
+        "https://www.lacityspa.com/hours",
+        "https://www.lacityspa.com/services",
+        "https://www.lacityspa.com/faq"
+      ],
+      "notes": "Rock room listed at 180-220\u00b0F, plus steam room, pool, gym, sun deck, silent room and cafe. Platza with oak venik is $15 extra; European body wash $45. FAQ says towels and toga are complimentary; the hours page still asks guests to bring towels, sandals and bathing suits.",
+      "last_checked": "2026-11-06"
+    },
+    {
+      "name": "Voda Spa",
+      "neighborhood": "West Hollywood",
+      "address": "7700 Santa Monica Blvd, West Hollywood, CA 90046",
+      "sauna_type": [
+        "Russian banya",
+        "Bathhouse",
+        "Steam room",
+        "Electric"
+      ],
+      "drop_in_price": "$110 facility use for non-members; $85 for members",
+      "session_length": "Up to 4 hours per facility-use visit",
+      "cold_plunge": "Cold plunge (included with facility use)",
+      "schedule": "Mon, Wed, Thu, Fri 1pm-11pm; Sat-Sun 11am-11pm; closed Tuesday. No reservation required for facility use; blackout dates apply. Parking behind the spa via Stanley Ave.",
+      "booking_url": "https://www.vodaspa.com/",
+      "source_urls": [
+        "https://www.vodaspa.com/",
+        "https://www.vodaspa.com/memberships/",
+        "https://www.vodaspa.com/contact-vodaspa/"
+      ],
+      "notes": "Wet and dry banyas, Finnish sauna, steam room, jacuzzi, swimming pool and relaxation room on the facility-use ticket. Massages, facials and scrubs are sold separately. Cafe and lounge on site.",
+      "last_checked": "2026-11-06"
+    },
+    {
+      "name": "Teddy's Hot House",
+      "neighborhood": "Venice",
+      "address": "1915 Lincoln Blvd, Venice, CA 90291",
+      "sauna_type": [
+        "Electric",
+        "Outdoor"
+      ],
+      "drop_in_price": "$48 first-timer pass (1 session + 1 free guest); 5-session package $200 ($40 each); 10-pack $360; 20-pack $640",
+      "session_length": "90 minutes",
+      "cold_plunge": "Morozko Forge cold plunge tubs (FAQ lists about 32-50\u00b0F across three plunges)",
+      "schedule": "Mon-Tue and Thu-Sun 7:30am-9pm; Wed 12:30pm-9pm. Book online up to 7 days ahead; doors lock one hour before closing (arrive before 8pm for a booked session). Swimsuits required; phones off for calls in shared spaces.",
+      "booking_url": "https://www.teddyshothouse.com/book-a-session",
+      "source_urls": [
+        "https://www.teddyshothouse.com/",
+        "https://www.teddyshothouse.com/pricing",
+        "https://www.teddyshothouse.com/faqs",
+        "https://www.teddyshothouse.com/book-a-session",
+        "https://www.teddyshothouse.com/the-space"
+      ],
+      "notes": "Communal Finnish sauna with two Harvia heaters (venue cites about 195-200\u00b0F) and outdoor showers between rounds. Two towels included; lockers available. Not infrared. Memberships and private events also offered.",
+      "last_checked": "2026-11-06"
+    },
+    {
+      "name": "Wi Spa",
+      "neighborhood": "Westlake / Koreatown edge",
+      "address": "2700 Wilshire Blvd, Los Angeles, CA 90057",
+      "sauna_type": [
+        "Bathhouse",
+        "Steam room",
+        "Electric"
+      ],
+      "drop_in_price": "$40 regular daily admission (waived with a treatment of $160 or more)",
+      "session_length": "Unknown (day-use; overnight fees apply for late stays)",
+      "cold_plunge": "Hot and cold baths on gender floors; Ice Sauna in the co-ed jimjilbang",
+      "schedule": "Open 24 hours, 7 days a week. No reservation needed for day passes; book treatments ahead. Family-friendly co-ed jimjilbang; gender-segregated spa floors are clothing-optional per venue rules. Guests under 18 need a same-gender adult in spa/sauna areas.",
+      "booking_url": "https://wispausa.com/",
+      "source_urls": [
+        "https://wispausa.com/",
+        "https://wispausa.com/about-wi-spa/",
+        "https://wispausa.com/the-wi-spa-experience/",
+        "https://wispausa.com/appointments/"
+      ],
+      "notes": "Korean bathhouse with men's floor, women's floor, co-ed jimjilbang (Bulgama, Salt, Clay, Jade and Ice saunas), rooftop terrace and restaurant. Shirt and shorts provided for co-ed areas; towels and lockers included with admission. Valet parking $4 cash. First Wednesday of each month has overnight maintenance windows.",
+      "last_checked": "2026-11-06"
+    },
+    {
+      "name": "Olympic Spa",
+      "neighborhood": "Mid-City / Koreatown",
+      "address": "3915 W Olympic Blvd, Los Angeles, CA 90019",
+      "sauna_type": [
+        "Bathhouse",
+        "Steam room",
+        "Infrared"
+      ],
+      "drop_in_price": "$60 Spa Day for non-members (online appointment only; $20 non-refundable deposit at booking); members have unlimited access",
+      "session_length": "Unknown (Spa Day: arrive within the booked 60-minute arrival window, then use amenities)",
+      "cold_plunge": "Cold water pool (core and dipping tank) plus Ice Sauna",
+      "schedule": "Daily 9am-9pm PT. Women-only. Closed New Year's Day, Christmas Eve/Day, and the last Wednesday of each month (plus other listed holiday closures). Valet only; entrance also listed at 946 S Norton Ave.",
+      "booking_url": "https://olympicspala.com/?page_id=1723",
+      "source_urls": [
+        "https://olympicspala.com/",
+        "https://olympicspala.com/?page_id=1723",
+        "https://olympicspala.com/?page_id=4098",
+        "https://olympicspala.com/?page_id=714"
+      ],
+      "notes": "Women-only Korean spa with salt-water and relaxation pools, herbal steam, red clay sauna, ice sauna, salt room and lounges. Treatments are separate; the venue recommends arriving early to use the baths before a booked service.",
+      "last_checked": "2026-11-06"
+    }
+  ]
+}

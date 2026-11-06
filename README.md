@@ -44,8 +44,8 @@ Re-check the oldest `last_checked` city: re-verify price, hours and open/closed 
 Seasonal venues (lake saunas, park permits) change the most.
 
 ## City backlog (rough priority)
-Portland OR, Chicago IL, New York NY, San Francisco CA, Duluth MN (done), St. Paul MN (skipped 2026-11-04: <3 eligible venues in the city), Boston MA (done), Austin TX (done),
-Los Angeles CA, Salt Lake City UT, Boulder CO, Bozeman MT, Anchorage AK, Detroit MI, Philadelphia PA,
+Portland OR, Chicago IL, New York NY, San Francisco CA, Duluth MN (done), St. Paul MN (skipped 2026-11-04: <3 eligible venues in the city), Boston MA (done), Austin TX (done), Los Angeles CA (done),
+Salt Lake City UT, Boulder CO, Bozeman MT, Anchorage AK, Detroit MI, Philadelphia PA,
 Brooklyn NY, Oakland CA, Madison WI, Milwaukee WI, Burlington VT.
 
 ## Monetization (not live)
