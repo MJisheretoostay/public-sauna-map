@@ -1,0 +1,107 @@
+{
+  "slug": "salt-lake-city-ut",
+  "city": "Salt Lake City",
+  "state": "UT",
+  "state_name": "Utah",
+  "intro": "Salt Lake City's public sauna scene is a mix of Finnish-style walk-in saunas, a full bathhouse and hosted Nordic sessions, spread from downtown and Poplar Grove to Sugar House and South Salt Lake. Sauna Public, Löyly Nordic Spa and Cold Plunge Coffee take walk-ins with no time limit, while Glow SLC sells 2-hour bathhouse visits and PLUNJ runs hosted 60-minute sessions. Prices, hours and session formats change, so confirm with each venue before you go.",
+  "last_checked": "2026-11-09",
+  "venues": [
+    {
+      "name": "Sauna Public",
+      "neighborhood": "Sugar House / East Millcreek area (2700 South)",
+      "address": "1952 E 2700 S, Salt Lake City, UT 84106",
+      "sauna_type": [
+        "Unknown heat source"
+      ],
+      "drop_in_price": "$35 day pass (refunded if you buy a membership or punch pass after your visit)",
+      "session_length": "No time limit",
+      "cold_plunge": "Communal cold plunge, 45-50°F (included)",
+      "schedule": "Weekdays 6am-10pm, Sat-Sun 10am-10pm. Walk-ins welcome; book online to skip the line.",
+      "booking_url": "https://www.saunapublic.com/plans-pricing",
+      "source_urls": [
+        "https://www.saunapublic.com/",
+        "https://www.saunapublic.com/plans-pricing"
+      ],
+      "notes": "Traditional Finnish-style sauna at 190-200°F with three bench levels; pouring water on the rocks is encouraged. Heat source (wood or electric) is not stated by the venue. Towels, lockers and showers provided. Punch passes (5/10/20 visits) are shareable.",
+      "last_checked": "2026-11-09"
+    },
+    {
+      "name": "Löyly Nordic Spa (Downtown SLC)",
+      "neighborhood": "Downtown",
+      "address": "336 W Broadway, Suite 103, Salt Lake City, UT 84101",
+      "sauna_type": [
+        "Unknown heat source"
+      ],
+      "drop_in_price": "$30 day pass (marked limited-time by the venue)",
+      "session_length": "All day; no reservations or time limits",
+      "cold_plunge": "Individual cold tubs set at 41°F, 46°F, 51°F or 56°F (number at this location Unknown)",
+      "schedule": "Mon-Thu 6am-9pm, Fri-Sat 6am-10pm, Sun 8am-2pm (hours as listed on the venue's site for its locations). Walk in during open hours.",
+      "booking_url": "https://www.loylynordicspa.com/salt-lake-memberships",
+      "source_urls": [
+        "https://www.loylynordicspa.com/locations",
+        "https://www.loylynordicspa.com/salt-lake-memberships",
+        "https://www.loylynordicspa.com/facilities"
+      ],
+      "notes": "Large social Finnish sauna plus a smaller silent sauna, with IKI heaters per the venue's facilities page. That page covers all Löyly locations, so exact sauna sizes and heater fuel for the downtown site are Unknown. Monthly memberships from $45 plus an annual fee. Underground garage parking in the building per a local guide.",
+      "last_checked": "2026-11-09"
+    },
+    {
+      "name": "Glow SLC",
+      "neighborhood": "Poplar Grove",
+      "address": "730 W 900 S, Salt Lake City, UT 84104",
+      "sauna_type": [
+        "Bathhouse",
+        "Steam room"
+      ],
+      "drop_in_price": "$45 for a 2-hour bathhouse visit",
+      "session_length": "2 hours",
+      "cold_plunge": "Cold plunge pool and rain shower, plus a warm soaking pool (included)",
+      "schedule": "Mon 6am-10am, Tue-Thu 6am-9pm, Fri-Sun 9am-9pm. Women only Wed 9:30am-noon; men only Thu 6am-7:30am; silent hours Wed 6-9pm and Sun 9-11am. Reservations recommended.",
+      "booking_url": "https://www.glowslc.com/pricing/",
+      "source_urls": [
+        "https://www.glowslc.com/",
+        "https://www.glowslc.com/pricing/",
+        "https://www.axios.com/local/salt-lake-city/2026/10/27/social-saunas-salt-lake-county-cold-plunge-pool"
+      ],
+      "notes": "Co-ed bathhouse with a cedar sauna, steam room, cold plunge, warm pool and lounges, plus yoga, breathwork and sound classes. Sauna heat source is Unknown. One page on the venue's site shows older, different hours, so confirm before you go. Members are charged $25 for peak-hour no-shows.",
+      "last_checked": "2026-11-09"
+    },
+    {
+      "name": "PLUNJ Salt Lake",
+      "neighborhood": "South Salt Lake (Central Pointe)",
+      "address": "51 W Utopia Ave, South Salt Lake, UT 84115",
+      "sauna_type": [
+        "Electric"
+      ],
+      "drop_in_price": "Unknown on the venue's page (shown in the booking calendar); its gift cards price one session at $44 including taxes",
+      "session_length": "60 minutes",
+      "cold_plunge": "Large communal cold pool, about 50°F, plus a Scandinavian bucket shower",
+      "schedule": "Book a 60-minute spot in a hosted public group (typically capped at 8-10 guests). Daily hours Unknown on the venue's page. Swimwear required.",
+      "booking_url": "https://www.plunj.co/locations/salt-lake",
+      "source_urls": [
+        "https://www.plunj.co/locations/salt-lake",
+        "https://saunashare.com/book/plunj-salt-lake/"
+      ],
+      "notes": "Two studios, each with a roughly 194-195°F dry sauna, cold pool, bucket shower and lounge. A host pours löyly every 5-10 minutes and brings water and tea. Electric heaters per SaunaShare. Free covered garage parking on the south side of the building; near TRAX Central Pointe. Cancel at least 48 hours ahead for session credit.",
+      "last_checked": "2026-11-09"
+    },
+    {
+      "name": "Cold Plunge Coffee",
+      "neighborhood": "Downtown / Central City (300 South)",
+      "address": "457 E 300 S, Salt Lake City, UT 84111",
+      "sauna_type": [
+        "Unknown heat source"
+      ],
+      "drop_in_price": "Unknown (one-time passes offered; price not shown on the venue's page)",
+      "session_length": "No time limit",
+      "cold_plunge": "BlueCube cold plunge tubs, 38-56°F (included)",
+      "schedule": "Mon-Fri 7am-7pm, Sat 8am-3pm, Sun 9am-3pm. Walk-ins always welcome. Bring swimwear; first-time waiver required.",
+      "booking_url": "https://www.coldplungecoffee.com/",
+      "source_urls": [
+        "https://www.coldplungecoffee.com/"
+      ],
+      "notes": "Specialty coffee shop with a traditional Finnish cedar sauna at 190-200°F and cold plunge tubs. Sauna heat source is Unknown. Towels provided. Parking behind the shop plus free 2-hour street parking in front. Coffee is not included with one-time passes.",
+      "last_checked": "2026-11-09"
+    }
+  ]
+}
