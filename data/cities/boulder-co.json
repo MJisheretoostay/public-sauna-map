@@ -1,0 +1,79 @@
+{
+  "slug": "boulder-co",
+  "city": "Boulder",
+  "state": "CO",
+  "state_name": "Colorado",
+  "intro": "Boulder's public sauna scene is made up of small independent bathhouses and sauna clubs, most of them clustered in the North Boulder Arts District along Broadway, plus a converted warehouse bathhouse in east Boulder and a garden sauna club near downtown on Pearl Street. Ever Sky, Third Space and Berner Collective all sell single drop-in visits around $30-35, while PORTAL runs bookable sessions on a credit system. Prices, hours and session formats change, so confirm with each venue before you go.",
+  "last_checked": "2026-11-10",
+  "venues": [
+    {
+      "name": "Ever Sky",
+      "neighborhood": "North Boulder (NoBo Arts District)",
+      "address": "4730 Broadway St, Boulder, CO 80304",
+      "sauna_type": ["Bathhouse"],
+      "drop_in_price": "$30 drop-in ($20 first visit; $40 friend drop-in for two)",
+      "session_length": "No time limit (book a time slot for capacity)",
+      "cold_plunge": "Two ice baths, 38-60°F (included)",
+      "schedule": "Mixed sessions, 18+. Women-only bathhouse session every Wednesday at 12pm. Daily hours are Unknown on the venue's own site (a sauna listing site shows noon-9pm daily). Drop-ins welcome; booking online first is encouraged.",
+      "booking_url": "https://eversky.club/pricing",
+      "source_urls": [
+        "https://eversky.club/",
+        "https://eversky.club/pricing",
+        "https://eversky.club/about",
+        "https://nearestsauna.com/denver-co/ever-sky/"
+      ],
+      "notes": "Small bathhouse with one large Finnish-style sauna at 160-180°F, a record listening lounge with complimentary hot drinks, changing rooms, lockers and showers. Swimsuit or athletic wear required; towels available if needed. Heat source not stated. Free parking in the lot behind Yoga Pearl. 8-visit pack $180; unlimited membership $155/month.",
+      "last_checked": "2026-11-10"
+    },
+    {
+      "name": "PORTAL° Boulder",
+      "neighborhood": "North Boulder (Emerald City, NoBo Arts District)",
+      "address": "4949 Broadway, #113, Boulder, CO 80304",
+      "sauna_type": ["Wood-fired"],
+      "drop_in_price": "$65 per session (one credit)",
+      "session_length": "Unknown (fixed booking window; venue suggests three rounds of about 15 minutes heat and 3 minutes cold)",
+      "cold_plunge": "Two cold plunges (included)",
+      "schedule": "Sat-Sun 10am-10pm, Mon-Fri 4pm-10pm. Book sessions in advance online. Waiver required.",
+      "booking_url": "https://www.portalthermaculture.com/boulder",
+      "source_urls": [
+        "https://www.portalthermaculture.com/boulder"
+      ],
+      "notes": "Rustic club with two wood-burning saunas. Bring a swimsuit, towel and water bottle; sauna towels can be rented. Parking in the Emerald City lot. 4-credit pack $240, 8-credit pack $440; credits can be used at other PORTAL locations.",
+      "last_checked": "2026-11-10"
+    },
+    {
+      "name": "Third Space & Co",
+      "neighborhood": "East Boulder (49th St)",
+      "address": "2480 49th St, Unit E, Boulder, CO 80301",
+      "sauna_type": ["Bathhouse"],
+      "drop_in_price": "$30 drop-in ($7 for a 7-day intro for first-timers)",
+      "session_length": "1 hour sauna sessions; 2-hour social sessions (venue says time slots are suggestions)",
+      "cold_plunge": "Three cold plunges, 38-70°F (included)",
+      "schedule": "Mon-Fri 7-9am and 11am-10pm, Sat 10am-10pm, Sun 9am-9pm. Drop in anytime open or reserve a time online.",
+      "booking_url": "https://www.thirdspaceand.co/booking/",
+      "source_urls": [
+        "https://www.thirdspaceand.co/booking/",
+        "https://www.thirdspaceand.co/membership/",
+        "https://www.thirdspaceand.co/denver-sauna-cold-plunge/"
+      ],
+      "notes": "Converted warehouse bathhouse with four saunas (165-230°F), a lounge bar with non-alcoholic drinks, and indoor and outdoor areas. Heat source not stated. Bring a swimsuit, towel and non-glass water bottle; towels are limited. Arrive 10 minutes early for check-in. Free on-site parking.",
+      "last_checked": "2026-11-10"
+    },
+    {
+      "name": "Berner Collective Sauna Club",
+      "neighborhood": "Downtown / Pearl Street",
+      "address": "2150 Pearl Street, Boulder, CO 80302",
+      "sauna_type": ["Wood-fired", "Outdoor"],
+      "drop_in_price": "$35",
+      "session_length": "1 hour",
+      "cold_plunge": "Three cold plunges in the outdoor garden (included)",
+      "schedule": "Open daily 7am-9pm. Mixed/gender policy Unknown.",
+      "booking_url": "https://www.bernercollective.com/saunaclub",
+      "source_urls": [
+        "https://www.bernercollective.com/saunaclub"
+      ],
+      "notes": "Two wood-fired saunas in an outdoor garden. Bring a swimsuit, water bottle and towel, and sit on your towel in the saunas. 4-credit pack $120, 8-credit pack $216 (credits also work for yoga classes).",
+      "last_checked": "2026-11-10"
+    }
+  ]
+}
