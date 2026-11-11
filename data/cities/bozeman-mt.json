@@ -1,0 +1,66 @@
+{
+  "slug": "bozeman-mt",
+  "city": "Bozeman",
+  "state": "MT",
+  "state_name": "Montana",
+  "intro": "Bozeman has a small but growing public sauna scene: a downtown bathhouse inspired by the Slavic banya, an outdoor sauna and cold plunge club on the Northside, and a long-running hot springs facility west of town with a dry sauna and steam room alongside its pools. Umvelt sells two-hour sessions, PORTAL runs bookable sessions on a credit system, and Bozeman Hot Springs sells day admission at the door. Prices, hours and session formats change, so confirm with each venue before you go.",
+  "last_checked": "2026-11-11",
+  "venues": [
+    {
+      "name": "Umvelt Bathhouse",
+      "neighborhood": "Downtown",
+      "address": "22 South Grand Ave, Bozeman, MT 59715",
+      "sauna_type": ["Bathhouse", "Russian banya", "Steam room"],
+      "drop_in_price": "$59 per 2-hour bathhouse session (towels included)",
+      "session_length": "2 hours",
+      "cold_plunge": "Cold plunge pool, 47°F, room for 7 (included)",
+      "schedule": "Mon and Wed-Fri 8am-9pm, Sat-Sun 9am-9pm, closed Tuesdays (venue notes hours vary by day and season). Co-ed, 18+. Reservations advised; walk-ins admitted first come, first served when space allows.",
+      "booking_url": "https://momence.com/u/umvelt",
+      "source_urls": [
+        "https://www.umvelt.co/",
+        "https://www.umvelt.co/faqs",
+        "https://www.umvelt.co/amenities",
+        "https://momence.com/u/umvelt"
+      ],
+      "notes": "Banya-inspired bathhouse with a large high-humidity event sauna (196°F, up to 30 guests), a smaller Finnish dry sauna (185°F), a eucalyptus steam room, a cold plunge and a warm pool. Swimwear required (no underwear or street clothes). Phone-free bathhouse floor; speak softly. Two towels and body wash provided; bring a water bottle. No outside food. Massage can be booked separately. Session packs and memberships available.",
+      "last_checked": "2026-11-11"
+    },
+    {
+      "name": "PORTAL° Bozeman",
+      "neighborhood": "Northside",
+      "address": "660 N Ida Ave, Bozeman, MT 59715",
+      "sauna_type": ["Outdoor"],
+      "drop_in_price": "Credits $32.50 each (6 for $162.50, 12 for $325); credits needed per session Unknown on the venue page",
+      "session_length": "Unknown (fixed booking window; venue suggests three rounds of about 15 minutes heat and 3 minutes cold)",
+      "cold_plunge": "Five individual cold plunge tubs (included)",
+      "schedule": "Sun-Tue and Thu-Sat 8am-10pm, Wed 4pm-10pm. Book sessions in advance online. Waiver required.",
+      "booking_url": "https://www.portalthermaculture.com/bozeman",
+      "source_urls": [
+        "https://www.portalthermaculture.com/bozeman",
+        "https://www.saunanews.com/article/portal-bozeman-fourth-club-social-sauna-scale"
+      ],
+      "notes": "Outdoor club with two saunas, five cold plunge tubs, a rooftop deck and an indoor clubhouse; opened March 2026. Heat source not stated. Bring a swimsuit, towel and water bottle; sauna towels are complimentary and bath towels can be rented. Arrive clean; showers on site and rinse stations before the plunges. Free on-site parking, first come, first served. Memberships $99-$279/month; credits work at other PORTAL clubs.",
+      "last_checked": "2026-11-11"
+    },
+    {
+      "name": "Bozeman Hot Springs",
+      "neighborhood": "West of Bozeman (8 miles west on US 191)",
+      "address": "Unknown street address on the venue's own site (8 miles west of Bozeman on US 191; a sauna listing site gives 2100 Stephens Ave #105, Bozeman, MT 59718)",
+      "sauna_type": ["Bathhouse", "Steam room"],
+      "drop_in_price": "Adults $28 weekdays, $34 weekends and holidays ($21 / $28 with Montana ID); Full Facility pass $42 weekdays, $50 weekends ($35 / $40 with Montana ID). Which pass includes the sauna is not stated.",
+      "session_length": "Unknown (day admission)",
+      "cold_plunge": "Cold pool in the indoor area next to the hottest pool (pools range 57-106°F)",
+      "schedule": "Mon-Thu 5:30am-11pm; Fri 5:30am-sundown; Sat sundown-midnight; Sunday hours Unknown (check the venue calendar). All ages.",
+      "booking_url": "https://bozemanhotsprings.co/prices/",
+      "source_urls": [
+        "https://bozemanhotsprings.co/",
+        "https://bozemanhotsprings.co/prices/",
+        "https://bozemanhotsprings.co/hours-location/",
+        "https://bozemanhotsprings.co/pools/",
+        "https://saunafinder.com/sauna/bozeman-hot-springs"
+      ],
+      "notes": "Hot springs facility with 12 naturally heated pools, plus a dry sauna and a steam room in the indoor pool area. Indoor pools are drained and cleaned nightly; the three main outdoor pools are chlorinated. Live music in the outdoor pools on Thursdays and Sundays. Also has a fitness center, cafe and campground. Accepts cash, Mastercard and Visa.",
+      "last_checked": "2026-11-11"
+    }
+  ]
+}
