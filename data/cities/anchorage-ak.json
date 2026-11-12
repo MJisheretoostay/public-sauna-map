@@ -1,0 +1,62 @@
+{
+  "slug": "anchorage-ak",
+  "city": "Anchorage",
+  "state": "AK",
+  "state_name": "Alaska",
+  "intro": "Anchorage has few dedicated public saunas, but it does have two Nordic-style spas with hot and cold circuits and a municipal recreation center with dry saunas in its locker rooms. The Alaska Club's Nordic Spa sells 90-minute sessions to nonmembers in East Anchorage, Alyeska Nordic Spa in Girdwood (part of the Municipality of Anchorage, about 40 miles south of downtown) sells full-day passes, and Spenard Recreation Center lets visitors use its saunas after checking in at the front desk. Prices, hours and access rules change, so confirm with each venue before you go.",
+  "last_checked": "2026-11-12",
+  "venues": [
+    {
+      "name": "Nordic Spa at The Alaska Club",
+      "neighborhood": "East Anchorage (inside The Alaska Club East)",
+      "address": "5201 East Tudor Road, Anchorage, AK 99507",
+      "sauna_type": ["Bathhouse", "Steam room", "Sauna (heat source unknown)"],
+      "drop_in_price": "$95 per nonmember session; $65 for a guest accompanied by a member; included with Gold and Platinum Alaska Club memberships",
+      "session_length": "90 minutes",
+      "cold_plunge": "Cold plunge and waterfall (included)",
+      "schedule": "Mon-Fri reservations 8am-7:30pm (closes 8pm); Sat-Sun reservations 8:15am-6pm (closes 6:30pm). Co-ed, 21+. Reservations required; walk-ins only if space allows. Online booking up to 45 days ahead.",
+      "booking_url": "https://www.thealaskaclub.com/nordic-spa",
+      "source_urls": [
+        "https://www.thealaskaclub.com/nordic-spa",
+        "https://www.thealaskaclub.com/nordic-spa-rates"
+      ],
+      "notes": "Salt stone sauna, steam room, hot tubs, a warm relaxation pool, cold plunge, waterfall, relaxation lounge and an outdoor fire pit area. Bring a swimsuit; standard club towels are provided and robes and slippers are for sale. Phones are not allowed anywhere in the spa (phone lockers available). No dedicated locker room: spa guests use the club's main locker rooms. Enter through the club's main entrance and check in at the front desk. Nonmembers who cancel within 6 hours or miss the session forfeit the fee.",
+      "last_checked": "2026-11-12"
+    },
+    {
+      "name": "Alyeska Nordic Spa",
+      "neighborhood": "Girdwood (Alyeska Resort, about 40 miles south of downtown Anchorage)",
+      "address": "Alyeska Resort, 1000 Arlberg Ave, Girdwood, AK 99587 (next to the lower tram terminal)",
+      "sauna_type": ["Bathhouse", "Outdoor", "Steam room", "Sauna (heat source unknown)"],
+      "drop_in_price": "Full-day hydrotherapy access from $125 (rates vary by day; weekends and holidays higher); twilight rate after 5pm not listed on the venue page; Alaska residents 20% off with code AKLOCAL (offer expiry listed as March 31, 2026, so confirm)",
+      "session_length": "Full day (stay until close; no re-entry)",
+      "cold_plunge": "Large cold plunge with waterfall and small cold plunge (included); cold bucket in the steam room",
+      "schedule": "Daily 10am-9pm. 18+. Book ahead (up to 3 months); same-day waitlist is first come, first served, and walk-ups after 5pm get 10% off full-day access.",
+      "booking_url": "https://anordicspa.com/access/",
+      "source_urls": [
+        "https://anordicspa.com/access/",
+        "https://anordicspa.com/faq/",
+        "https://anordicspa.com/elements/",
+        "https://anordicspa.com/alaskan-exclusive/"
+      ],
+      "notes": "Outdoor Nordic spa with hot pools, wooden tubs, a forest sauna, a cedar barrel sauna, steam rooms and cold plunges along a forest loop. Phone-free zone; bring a non-glass water bottle. Massages include spa access. Spa access is not automatically included with a stay at Alyeska Resort. On-site bistro.",
+      "last_checked": "2026-11-12"
+    },
+    {
+      "name": "Spenard Recreation Center",
+      "neighborhood": "Spenard",
+      "address": "2020 W. 48th Avenue, Anchorage, AK 99517",
+      "sauna_type": ["Sauna (heat source unknown)"],
+      "drop_in_price": "Unknown (showers are $3 per use; sauna fee not stated on the venue page)",
+      "session_length": "Up to 30 minutes",
+      "cold_plunge": "None listed (showers available)",
+      "schedule": "Separate saunas in the men's and women's locker rooms. Final sauna entry 7pm (5:30pm in summer). Check in at the front desk before use; full center hours Unknown on the venue page.",
+      "booking_url": "https://www.muni.org/departments/parks_and_recreation/spenard_recreation_center.php",
+      "source_urls": [
+        "https://www.muni.org/departments/parks_and_recreation/spenard_recreation_center.php"
+      ],
+      "notes": "Municipal community recreation center. The saunas are dry (no steam) and are not preheated: the venue asks you to arrive 15-30 minutes early, and heating takes 5-10 minutes. Proper attire required. Bring your own towel, soap and shampoo. Locks can't be left overnight. Call 907-343-4160 to confirm current fees and hours.",
+      "last_checked": "2026-11-12"
+    }
+  ]
+}
