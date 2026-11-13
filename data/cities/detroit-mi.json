@@ -1,0 +1,92 @@
+{
+  "slug": "detroit-mi",
+  "city": "Detroit",
+  "state": "MI",
+  "state_name": "Michigan",
+  "intro": "Detroit pairs a bathhouse that has been open to guests since 1930 with a newer wave of wood-fired and Finnish-style saunas. The Schvitz in the North End takes walk-ins on a weekly schedule of all-gender, men-only and women-only hours, BASK in Brush Park sells two-hour sauna and cold plunge sessions, and two outdoor operations, Islandview Sauna Club and SOMi Sauna on Belle Isle, run wood-fired saunas on weekends. Prices, hours and seasonal dates change, so confirm with each venue before you go.",
+  "last_checked": "2026-11-13",
+  "venues": [
+    {
+      "name": "The Schvitz",
+      "neighborhood": "North End",
+      "address": "8295 Oakland Ave, Detroit, MI 48211",
+      "sauna_type": [
+        "Bathhouse",
+        "Russian banya"
+      ],
+      "drop_in_price": "$40 per person (no memberships)",
+      "session_length": "Stay for the session (Sunday sessions are separate, so re-entry between them is paid)",
+      "cold_plunge": "Pool (included)",
+      "schedule": "Everyone welcome (bathing suits required): Mon & Fri 12pm-10pm, Sat 11am-4pm, Sun 6pm-10pm. Men only (suits optional): Sun 7am-11am, Wed 12pm-10pm, Thu 4pm-10pm. Women only (suits optional): Sat 7am-11am, Sun 12pm-4pm, Tue 12pm-10pm. Walk-ins only; no reservations for public hours.",
+      "booking_url": "https://schvitzdetroit.com/",
+      "source_urls": [
+        "https://schvitzdetroit.com/",
+        "https://schvitzdetroit.com/faq/"
+      ],
+      "notes": "Historic bathhouse with two saunas heated to 180-200°F, showers, a pool, common areas and an outdoor patio. Admission includes a locker and towels. Robe rental $5 (limited supply); sandals $15 and locks $10 for sale, or bring your own. No hot tub. Outside food not permitted; there is a house kitchen. Saturday evenings after 6pm are reserved for private parties.",
+      "last_checked": "2026-11-13"
+    },
+    {
+      "name": "BASK Detroit",
+      "neighborhood": "Brush Park",
+      "address": "81 Erskine St, Detroit, MI 48201",
+      "sauna_type": [
+        "Sauna (heat source unknown)"
+      ],
+      "drop_in_price": "$60 one-time visit; 3-pass package $160; 10-pass package $380; memberships from $180/month",
+      "session_length": "2 hours",
+      "cold_plunge": "4 single-occupant cold plunge tubs, 37-50°F (included)",
+      "schedule": "Mon-Sat 7am-9pm. Co-ed communal sauna and plunge areas with separate men's and women's locker rooms. Booking ahead recommended; walk-ins if space allows.",
+      "booking_url": "https://baskdetroit.com/pages/book",
+      "source_urls": [
+        "https://baskdetroit.com/pages/book",
+        "https://baskdetroit.com/pages/faqs",
+        "https://baskdetroit.com/pages/memberships"
+      ],
+      "notes": "Community Finnish dry sauna for up to 40 people, set to 194°F (170-200°F depending on bench level). Bring modest swimwear; lockers, towels and showers provided. Cashless. Paid parking structure plus street parking nearby. Rinse before using the plunge tubs.",
+      "last_checked": "2026-11-13"
+    },
+    {
+      "name": "Islandview Sauna Club",
+      "neighborhood": "Islandview (East Side)",
+      "address": "1000 Beaufait Street, Detroit, MI 48207",
+      "sauna_type": [
+        "Wood-fired",
+        "Outdoor"
+      ],
+      "drop_in_price": "Unknown (booked by the hour online; price not shown on the venue's pages)",
+      "session_length": "1 hour booking",
+      "cold_plunge": "Cold plunge (included)",
+      "schedule": "Fri 5pm-9pm, Sat 1pm-5pm, Sun 1pm-5pm. Book online; private groups of 6+ use the contact form. You must wear something in the sauna.",
+      "booking_url": "https://www.islandviewsauna.com/book-appointment-1",
+      "source_urls": [
+        "https://www.islandviewsauna.com/about",
+        "https://www.islandviewsauna.com/contact"
+      ],
+      "notes": "Three custom wood-fired saunas (a converted cattle trailer, a converted horse trailer and a barrel sauna) on a wooded former rail corridor, plus a campfire and a heated base tent for changing with non-secure storage. Portable restroom on site. Arrive 15 minutes early for safety guidelines. Bring a robe or towel, a swimsuit, a towel to sit on, sandals and a water bottle; leave jewelry and valuables at home.",
+      "last_checked": "2026-11-13"
+    },
+    {
+      "name": "SOMi Sauna at Belle Isle Beach",
+      "neighborhood": "Belle Isle",
+      "address": "Belle Isle Beach, just west of the Beach House, Detroit, MI",
+      "sauna_type": [
+        "Wood-fired",
+        "Outdoor",
+        "Mobile",
+        "Seasonal"
+      ],
+      "drop_in_price": "$29.50 per seat (lower early-booking prices offered)",
+      "session_length": "75 minutes",
+      "cold_plunge": "Detroit River (or cool off in open air)",
+      "schedule": "Select weekends, October through January: Nov 14-15, Nov 28-29, Dec 12-13 2026; Jan 16-17, Jan 30-31 2027. Seven sessions a day from 10am to the last start at 7pm, ten seats each. 18+. Runs in snow and rain; cancelled only for lightning or unsafe ice.",
+      "booking_url": "https://somisauna.com/belle-isle",
+      "source_urls": [
+        "https://somisauna.com/",
+        "https://somisauna.com/belle-isle"
+      ],
+      "notes": "Hand-built cedar trailer sauna with a wood-fired stove, 180-205°F, two tiers of benches. Bring a swimsuit (wear it under your clothes) and a towel. Free parking in the beach lot. Cancel more than 48 hours ahead for a full refund.",
+      "last_checked": "2026-11-13"
+    }
+  ]
+}
