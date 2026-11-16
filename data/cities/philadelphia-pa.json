@@ -1,0 +1,99 @@
+{
+  "slug": "philadelphia-pa",
+  "city": "Philadelphia",
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "intro": "Philadelphia's public sauna options grew in 2026. Bathhouse opened a large day-pass spa under the Bellevue in Center City in September, Fusion Spa & Resort in the Far Northeast runs a multi-room spa with a banya, Finnish saunas and a snow room, and Fiorst hosts shared wood-fired sauna sessions in the woods of the Schuylkill Center in Roxborough. Just over the city line, Chung Dam Spa in Cheltenham is a Korean-style spa with heated rooms and a steam bath. Prices vary by day and time at several venues, so confirm with each one before you go.",
+  "last_checked": "2026-11-16",
+  "venues": [
+    {
+      "name": "Bathhouse Philadelphia",
+      "neighborhood": "Center City (The Bellevue)",
+      "address": "1418 Walnut Street, Philadelphia, PA 19102",
+      "sauna_type": [
+        "Bathhouse",
+        "Russian banya",
+        "Infrared",
+        "Steam room"
+      ],
+      "drop_in_price": "Day pass from $29 (price varies by day and time)",
+      "session_length": "Stay as long as you like from your booked check-in time (single entry, no re-entry)",
+      "cold_plunge": "Cold pool, 50°F (included)",
+      "schedule": "Daily 8am-11:30pm. 18+. Walk-ins permitted, but reservations are strongly encouraged. Sauna Rituals (Aufguss) are hosted daily in the dry sauna.",
+      "booking_url": "https://bathhousephiladelphia.try.be/items/6a3acc983fa0350be2038ed0/book-day-pass-browse-prices",
+      "source_urls": [
+        "https://bathhouse.com/philadelphia",
+        "https://bathhouse.com/day-pass",
+        "https://www.thebellevuehotel.com/bathhouse/"
+      ],
+      "notes": "Gas-furnace banya at 185-195°F, dry sauna up to 185°F with guided Aufguss sessions, infrared sauna at 135°F and a 115°F steam room, plus a hot pool (104°F) and a neutral pool (98°F). Bring a bathing suit and a non-glass water bottle; towels and slippers are provided. Massages are sold separately and include amenity access.",
+      "last_checked": "2026-11-16"
+    },
+    {
+      "name": "Fusion Spa & Resort",
+      "neighborhood": "Far Northeast",
+      "address": "250 Byberry Rd, Philadelphia, PA 19116",
+      "sauna_type": [
+        "Russian banya",
+        "Steam room",
+        "Infrared",
+        "Bathhouse"
+      ],
+      "drop_in_price": "Spa Pass from $55 (rates vary by day and time)",
+      "session_length": "Up to 5 hours with a standard Spa Pass ($15 per additional hour; unlimited pass sold at checkout)",
+      "cold_plunge": "Cold plunge and snow room (included)",
+      "schedule": "Sun-Thu 10am-10pm, Fri-Sat 10am-11pm. Ages 16+ (under 18 must be with a parent or guardian at all times); ID and a card required at check-in. Book online for a set arrival time; walk-ins welcome based on availability.",
+      "booking_url": "https://fusionspa.try.be/offerings/categories/691b88fb04e01d2bb00c19fe/spa-pass",
+      "source_urls": [
+        "https://fusionsparesort.com/",
+        "https://fusionsparesort.com/faq/",
+        "https://fusionsparesort.com/rooms/"
+      ],
+      "notes": "Spa Pass covers a traditional banya, Finnish aroma sauna, panoramic dry Finnish sauna, Ganbanyoku stone-bed room, infrared and Himalayan salt rooms, Turkish hammam, aroma steam room, indoor and outdoor pools, jacuzzi, cold plunge and snow room, plus robe, towels, toiletries and a locker. Bring swimwear; robes are required in spa and restaurant areas. Phones not allowed in locker rooms or sauna areas. Pouring water on sauna heaters is not allowed. Free parking. Cancel at least 24 hours ahead to avoid charges.",
+      "last_checked": "2026-11-16"
+    },
+    {
+      "name": "Fiorst at the Schuylkill Center",
+      "neighborhood": "Roxborough (Schuylkill Center for Environmental Education)",
+      "address": "8480 Hagy's Mill Road, Philadelphia, PA",
+      "sauna_type": [
+        "Wood-fired",
+        "Outdoor"
+      ],
+      "drop_in_price": "$50 per person for The Social Session (shared saunas); Bring-A-Friend add-on $25",
+      "session_length": "90 minutes",
+      "cold_plunge": "Cold plunge (included)",
+      "schedule": "Session dates and times are posted on the online booking calendar (Unknown otherwise). Private sessions also offered: $300 for one sauna (up to 8 guests) or $500 for both saunas (up to 16).",
+      "booking_url": "https://fiorst.com/schuylkill-center-schedule",
+      "source_urls": [
+        "https://fiorst.com/",
+        "https://fiorst.com/schuylkill-center-schedule",
+        "https://fiorst.as.me/?appointmentType=category:Schuylkill%20Center"
+      ],
+      "notes": "Hosted outdoor sessions in the Schuylkill Center woodlands; move between the saunas at your own pace, with a firepit between rounds. Bring swimwear, two towels (one to sit on in the sauna is mandatory), sandals, water and warm layers. Restrooms on site can be used for changing, but arrive ready to go. Snacks are fine by the firepit, not in the sauna. Full refund or free rescheduling with 48 hours' notice. A waiver is on the venue's site.",
+      "last_checked": "2026-11-16"
+    },
+    {
+      "name": "Chung Dam Spa & Fitness",
+      "neighborhood": "Cheltenham (Melrose Shopping Center, just outside the city line)",
+      "address": "41 East Cheltenham Avenue, Cheltenham, PA 19012",
+      "sauna_type": [
+        "Steam room",
+        "Korean spa (heated rooms)"
+      ],
+      "drop_in_price": "$35 full one-day admission (non-member)",
+      "session_length": "Full day",
+      "cold_plunge": "Unknown",
+      "schedule": "Daily 8:30am-9:30pm. Gender and age rules Unknown.",
+      "booking_url": "https://chungdamspa.com/memberships/",
+      "source_urls": [
+        "https://chungdamspa.com/",
+        "https://chungdamspa.com/services/",
+        "https://chungdamspa.com/memberships/",
+        "https://chungdamspa.com/contact/"
+      ],
+      "notes": "Korean/Japanese-style spa with a Hot Jade Stone Room, Hot Yellow Clay with Charcoal Room, Warm Granite Room, lower-body bath tub and a mugwort herbal steam bath, plus a fitness area. Day admission includes towels and gowns, toiletries and exercise clothing (not sneakers). Body scrubs and massages are sold separately and include a day pass. Free parking at the shopping center.",
+      "last_checked": "2026-11-16"
+    }
+  ]
+}
