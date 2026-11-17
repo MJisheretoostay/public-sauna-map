@@ -1,0 +1,80 @@
+{
+  "slug": "madison-wi",
+  "city": "Madison",
+  "state": "WI",
+  "state_name": "Wisconsin",
+  "intro": "Madison has a growing lake-town sauna scene. Saunaday runs a modern bathhouse across from Lake Monona, Madison Saunas opened wood-fired community saunas at Wingra Boats on Lake Wingra in November 2026, Kosa Spa hosts communal sauna and steam sessions at the Garver Feed Mill, and the mobile Kindled Community Sauna is in residency at Tricky Foods through December 2026. Several options are seasonal or run on set session times, so book ahead and confirm details with each venue.",
+  "last_checked": "2026-11-17",
+  "venues": [
+    {
+      "name": "Saunaday",
+      "neighborhood": "Near Lake Monona (S. Blount St)",
+      "address": "315 S. Blount Street, Madison, WI 53703",
+      "sauna_type": ["Bathhouse", "Steam room"],
+      "drop_in_price": "$55",
+      "session_length": "2 hours",
+      "cold_plunge": "Drop-in cold plunge pool (included)",
+      "schedule": "Mon and Wed-Sun 7am-9pm, closed Tuesday. Quiet hours daily 7am-10am. 18+ (guests 16+ only when booking a Private Suite with a parent). Reservations recommended; walk-ins welcome as capacity allows (may be limited on evenings and weekends).",
+      "booking_url": "https://www.joinblvd.com/b/saunaday/widget#/visit-type",
+      "source_urls": [
+        "https://www.sauna.day/the-bathhouse",
+        "https://www.sauna.day/plan-your-visit"
+      ],
+      "notes": "Communal bathhouse with two saunas (a larger social Cedar Sauna and a silent Aspen Sauna), a steam room and a cold plunge pool. Swimwear required; personal shoes not allowed (slides provided). Two towels, lockers, shower products and hair dryers included. Bring a non-glass water bottle. Free reserved parking in the lot across Blount Street. Private suites, a Hinoki hot soak and a private infrared cabin are sold separately.",
+      "last_checked": "2026-11-17"
+    },
+    {
+      "name": "Madison Saunas",
+      "neighborhood": "Lake Wingra (Wingra Boats)",
+      "address": "824 Knickerbocker St, Madison, WI 53711",
+      "sauna_type": ["Wood-fired", "Outdoor", "Seasonal"],
+      "drop_in_price": "$27 (60 min), $34 (75 min), $42 (105 min) community sessions",
+      "session_length": "60, 75 or 105 minutes",
+      "cold_plunge": "Lake Wingra plunge or cold-water rinse shower (both optional)",
+      "schedule": "Season runs from Nov 6, 2026 to at least Mar 7, 2027. Community sessions are designed for 9-10 guests. Minimum age 14 for community sessions; minors must be with a parent or guardian. Book online; session times are posted on the booking calendar.",
+      "booking_url": "https://fareharbor.com/embeds/book/madisonsaunas/?full-items=yes&flow=1692526",
+      "source_urls": [
+        "https://madisonsaunas.com/",
+        "https://madisonsaunas.com/faqs/",
+        "https://www.visitmadison.com/listings/madison-saunas/186194/"
+      ],
+      "notes": "Two wood-fired cedar saunas on the shore of Lake Wingra, typically kept around 175°F, with transition rooms, an outdoor fire pit, changing area, restrooms and free lockers. No showers for washing this first season. Bring two towels, a swimsuit, a water bottle and warm layers; water shoes or sandals are mandatory for the lake plunge. Private sessions for 10-12 people are $385 for 105 minutes.",
+      "last_checked": "2026-11-17"
+    },
+    {
+      "name": "Kosa Spa",
+      "neighborhood": "Garver Feed Mill",
+      "address": "3241 Garver Green, Suite 260, Madison, WI 53704",
+      "sauna_type": ["Steam room"],
+      "drop_in_price": "$55 per Community Sauna session (plus optional gratuity)",
+      "session_length": "3 hours",
+      "cold_plunge": "Cold rain shower (no plunge pool listed)",
+      "schedule": "Community Sauna: Tue 10am-1pm and 1pm-4pm; Wed 10am-1pm, 2pm-5pm and 4pm-7pm; Thu 10am-1pm and 2pm-5pm; Sat Happy Hour 4pm-7pm. 18+. Communal; bathing suits required. Book under the \"Community\" section.",
+      "booking_url": "https://kosaspa.zenoti.com/webstoreNew/services/b36aeb5b-8902-4c94-b66c-5ccf1f117a9a",
+      "source_urls": [
+        "https://www.kosaspa.com/community-sauna",
+        "https://www.kosaspa.com/"
+      ],
+      "notes": "Ayurvedic spa in the historic Garver Feed Mill (enter from Fair Oaks Avenue). Community sessions include a hot stone sauna, steam room, cold rain shower, lounge and meditation space, plus robes, towels, slippers, lockers, teas and snacks. Saturday Happy Hour sessions add music and drinks for sale. Private retreats ($80) and spa services are sold separately.",
+      "last_checked": "2026-11-17"
+    },
+    {
+      "name": "Kindled Community Sauna at Tricky Foods",
+      "neighborhood": "Unknown",
+      "address": "121 E Lakeside St, Madison, WI",
+      "sauna_type": ["Wood-fired", "Mobile", "Outdoor", "Seasonal"],
+      "drop_in_price": "$45 (Tuesday social sauna, includes a charcuterie cup)",
+      "session_length": "60 minutes",
+      "cold_plunge": "Cold plunge tanks (hose-filled) or other cool-off options; set-up can vary",
+      "schedule": "Residency Nov 1-Dec 31, 2026: social sauna sessions every Tuesday; session times on the booking calendar. Private group sessions by email request. Age policy Unknown.",
+      "booking_url": "https://kindledcommunitysaunascheduleyoursession.as.me/",
+      "source_urls": [
+        "https://www.kindledcommunitysauna.com/november-december-residency",
+        "https://www.kindledcommunitysauna.com/faq",
+        "https://www.kindledcommunitysauna.com/booking-calendar"
+      ],
+      "notes": "Mobile wood-fired sauna seating six; community sessions share the sauna with up to 5 others and a sauna guide tends the fire. Wear a swimsuit or light athletic clothing and bring a water bottle and something dry to change into. Patio and globe seating at Tricky Foods. Outside the residency, Kindled pops up at other Madison/Dane County locations.",
+      "last_checked": "2026-11-17"
+    }
+  ]
+}
