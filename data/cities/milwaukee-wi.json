@@ -1,0 +1,66 @@
+{
+  "slug": "milwaukee-wi",
+  "city": "Milwaukee",
+  "state": "WI",
+  "state_name": "Wisconsin",
+  "intro": "Milwaukee's public sauna scene is built around wood-fired saunas in the county parks and suburbs. Heat Haven runs two winter sauna parks, at Hoyt Park in Wauwatosa and at Blüm Coffee Garden in Greenfield, and Hot Spell Sauna runs wood-fired sessions at Wulff Lodge in Grant Park in South Milwaukee, moving between lakefront locations with the seasons. The Hive Wellness & Social, which hosts lakeside sauna pop-ups, plans to open a communal sauna and cold tub club in Bay View on January 2, 2027. These are seasonal, outdoor operations, so book ahead and confirm dates and locations with each venue.",
+  "last_checked": "2026-11-18",
+  "venues": [
+    {
+      "name": "Heat Haven at Hoyt Park",
+      "neighborhood": "Wauwatosa (Hoyt Park)",
+      "address": "1800 N Swan Blvd, Wauwatosa, WI 53226",
+      "sauna_type": ["Wood-fired", "Outdoor", "Seasonal"],
+      "drop_in_price": "$35 Community Sweat Session (plus 5.9% tax, $37.06 at booking)",
+      "session_length": "75 minutes",
+      "cold_plunge": "Cold-water shower (the \"Chillotine\") and tipping-bucket rinse stations; no shared plunge pool listed",
+      "schedule": "Winter season; session times are posted on the booking calendar. Open rain, snow or shine unless it is -10°F or colder. Ages 12+; kids must stay with a parent or guardian inside the sauna. Booking ahead recommended; walk-ups welcome when space is available.",
+      "booking_url": "https://heathaven.as.me/HoytPark",
+      "source_urls": [
+        "https://heathaven.co/",
+        "https://heathaven.co/what-to-expect",
+        "https://heathaven.co/directions",
+        "https://heathaven.co/robeclub"
+      ],
+      "notes": "Three wood-fired cedar barrel saunas, typically 160-190°F, with fire pits, bathrooms and changing rooms, next to The Landing at Hoyt Park (food and drinks for sale; no outside alcohol). Bring a swimsuit (no metal details), towel, robe, sandals and a water bottle; extras and rentals are on site. Free parking. Private sauna for up to 6 is $150 for 75 minutes. Robe Club is $99/month plus a $150 joining fee and covers both Heat Haven parks. Sunday Sauna Social pairs a movement class with sauna time.",
+      "last_checked": "2026-11-18"
+    },
+    {
+      "name": "Heat Haven at Blüm Coffee Garden",
+      "neighborhood": "Greenfield (W. Loomis Rd)",
+      "address": "4930 W Loomis Rd, Greenfield, WI 53220",
+      "sauna_type": ["Wood-fired", "Outdoor", "Seasonal"],
+      "drop_in_price": "$35 Community Sweat Session (plus 5.9% tax, $37.06 at booking)",
+      "session_length": "75 minutes",
+      "cold_plunge": "Cold-water shower (the \"Chillotine\") and rinse stations; no shared plunge pool listed",
+      "schedule": "Winter season; session times are posted on the booking calendar. Open rain, snow or shine unless it is -10°F or colder. Ages 12+; kids must stay with a parent or guardian inside the sauna. Booking ahead recommended; walk-ups welcome when space is available.",
+      "booking_url": "https://heathaven.as.me/HeatHavenAtBlum",
+      "source_urls": [
+        "https://heathaven.co/",
+        "https://heathaven.co/what-to-expect",
+        "https://heathaven.co/directions",
+        "https://badgersauna.com/milwaukee-sauna-guide"
+      ],
+      "notes": "Heat Haven's second sauna park, at Blüm Coffee Garden, with wood-fired barrel saunas, fire pits, bathrooms and changing rooms; drinks and food are sold on site. Free parking. Private sauna for up to 6 is $150 for 75 minutes. Saturday Sauna Social pairs a movement class with sauna time, and a local guide lists trivia and music bingo theme nights on the Blüm calendar this winter.",
+      "last_checked": "2026-11-18"
+    },
+    {
+      "name": "Hot Spell Sauna",
+      "neighborhood": "South Milwaukee (Grant Park, Wulff Lodge)",
+      "address": "215 S. Lake Drive, South Milwaukee, WI 53172",
+      "sauna_type": ["Wood-fired", "Outdoor", "Seasonal"],
+      "drop_in_price": "$37 per seat in a Social Session (per a local guide; confirm on the booking page)",
+      "session_length": "75 minutes (per a local guide)",
+      "cold_plunge": "Cold showers at Grant Park (no plunge pool listed)",
+      "schedule": "Social and private sessions are booked online and held rain or shine. 18+. Hot Spell moves between lakefront locations by season; as of Nov 18, 2026 its site lists Grant Park and no bookable sessions were showing, so check the booking page for winter 2026-27 dates.",
+      "booking_url": "https://www.hotspellsauna.com/book-now",
+      "source_urls": [
+        "https://www.hotspellsauna.com/",
+        "https://www.hotspellsauna.com/book-now",
+        "https://badgersauna.com/milwaukee-sauna-guide"
+      ],
+      "notes": "Two wood-fired saunas with cold showers, an outdoor lounge area, restrooms and changing areas at Wulff Lodge above the Seven Bridges Trail. Enter Grant Park's northern entrance near the soccer fields and follow the signs; marked parking past the Willow Way turnabout. Bring a bathing suit and water; no food or drinks sold on site. Robe ($6) and towel ($4) rentals. 5-packs $150, 10-packs $270; private sessions for up to 16 people.",
+      "last_checked": "2026-11-18"
+    }
+  ]
+}

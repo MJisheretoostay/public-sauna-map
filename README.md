@@ -45,7 +45,7 @@ Seasonal venues (lake saunas, park permits) change the most.
 
 ## City backlog (rough priority)
 Portland OR, Chicago IL, New York NY, San Francisco CA, Duluth MN (done), St. Paul MN (skipped 2026-11-04: <3 eligible venues in the city), Boston MA (done), Austin TX (done), Los Angeles CA (done), Salt Lake City UT (done), Boulder CO (done), Bozeman MT (done), Anchorage AK (done), Detroit MI (done), Philadelphia PA (done),
-Brooklyn NY (skipped 2026-11-17: already covered by the New York NY page), Oakland CA (skipped 2026-11-17: <3 eligible venues; only Some Sun, others private-room or infrared-only), Madison WI (done), Milwaukee WI, Burlington VT.
+Brooklyn NY (skipped 2026-11-17: already covered by the New York NY page), Oakland CA (skipped 2026-11-17: <3 eligible venues; only Some Sun, others private-room or infrared-only), Madison WI (done), Milwaukee WI (done), Burlington VT.
 
 ## Monetization (not live)
 `data/site.json -> home_gear_links` holds placeholder affiliate links (Sweaty Yeti, Plunge, Topture,
