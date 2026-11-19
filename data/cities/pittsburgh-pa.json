@@ -1,0 +1,68 @@
+{
+  "slug": "pittsburgh-pa",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "intro": "Pittsburgh's public sauna scene mixes outdoor wood-fired pop-ups in the East End with an indoor social sauna studio in the Strip District. Bad Sauna runs hourly open, silent and aufguss sessions at Ascend Point Breeze, Signal Sauna runs a wood-fired barrel sauna with ice-cold tubs on a lot off Torrens Street, and MindFuel Method offers open flow and guided sessions in a large cedar sauna with cold plunge tubs. All three are book-ahead, so check each venue's schedule before you go.",
+  "last_checked": "2026-11-19",
+  "venues": [
+    {
+      "name": "Bad Sauna",
+      "neighborhood": "Point Breeze (at Ascend Point Breeze)",
+      "address": "7443 Thomas Blvd, Pittsburgh, PA 15208",
+      "sauna_type": ["Wood-fired", "Outdoor"],
+      "drop_in_price": "$18 for the first hour of an Open or Silent Session ($9 for a second hour); themed 2-hour sessions such as Aufguss ($29) and Sounds at the Sauna ($33) cost more",
+      "session_length": "60 minutes (Open Session hourly slot); themed sessions 120 minutes",
+      "cold_plunge": "Cold plunge pool (rinse off first); cold shower or cold air between rounds",
+      "schedule": "Hours as listed: Tue 3-10pm, Wed-Thu 5-10pm, Fri 3-11pm, Sat 10am-8pm, Sun 10am-10pm. Open, Silent, Aufguss and themed nights (including Women's Night and Trans Night) on the booking calendar. 18+, clothing-optional inside the sauna, phone-free.",
+      "booking_url": "https://book.badsauna.com/",
+      "source_urls": [
+        "https://www.badsauna.com/",
+        "https://www.badsauna.com/faqs-etiquette",
+        "https://book.badsauna.com/",
+        "https://citysaunas.com/sauna-pittsburgh/"
+      ],
+      "notes": "Founded in 2023 by a certified bath master. Bring two towels (one to sit on), a water bottle and sandals; a robe is recommended because covering is required in common areas and when using the bathrooms inside Ascend. Tickets are non-refundable but can be credited if cancelled 24+ hours ahead; weather cancellations are credited automatically.",
+      "last_checked": "2026-11-19"
+    },
+    {
+      "name": "Signal Sauna",
+      "neighborhood": "East End (Torrens St, behind SKN Muay Thai / CrossFit Pittsburgh)",
+      "address": "127 Torrens St, Pittsburgh, PA 15206",
+      "sauna_type": ["Wood-fired", "Outdoor", "Mobile"],
+      "drop_in_price": "$25 single session drop-in",
+      "session_length": "75 minutes",
+      "cold_plunge": "Ice-cooled cold tubs (into the 40s °F)",
+      "schedule": "Weekly schedule lists Open Flow sessions Wed-Thu 4-8:15pm, Sat 11:30am-6:45pm, Sun 10am-6:45pm (Sunday 1pm is a Queer Session); closed Mon, Tue and Fri. Book online or in the FitDEGREE app.",
+      "booking_url": "https://www.signalsauna.com/schedule",
+      "source_urls": [
+        "https://www.signalsauna.com/",
+        "https://www.signalsauna.com/schedule",
+        "https://www.signalsauna.com/pricing",
+        "https://www.signalsauna.com/faqs-4",
+        "https://www.signalsauna.com/location"
+      ],
+      "notes": "Mobile pop-up on a converted lot: a wood-fired barrel sauna (typically 150-190°F; you can pour water on the rocks) with outdoor changing rooms and a portable toilet. Entrance on Torrens St behind the big pink building; street parking on Hamilton Ave. Bring two towels, clothes you don't mind getting wet and a water bottle. Memberships from $80/month; 5- and 10-session passes $110 and $200.",
+      "last_checked": "2026-11-19"
+    },
+    {
+      "name": "MindFuel Method",
+      "neighborhood": "Strip District",
+      "address": "2006 Smallman St, Pittsburgh, PA 15222",
+      "sauna_type": ["Traditional Finnish (heat source Unknown)"],
+      "drop_in_price": "$49 drop-in (intro offers: 3 sessions for $79 or 2 weeks unlimited for $99)",
+      "session_length": "60-75 minutes",
+      "cold_plunge": "Cold plunge tubs (about 38-56°F)",
+      "schedule": "Sessions 7 days a week: open flow, guided classes and community socials on the online schedule. Ages 16+; under 18 must be with a parent or guardian. Phone-free.",
+      "booking_url": "https://mindfuelmethod.com/class-schedules/",
+      "source_urls": [
+        "https://mindfuelmethod.com/sauna/",
+        "https://mindfuelmethod.com/faq/",
+        "https://mindfuelmethod.com/memberships/",
+        "https://mindfuelmethod.com/intro/"
+      ],
+      "notes": "Indoor social studio with a cedar-lined traditional Finnish sauna for up to 30 people (165-195°F; ladle water on the rocks), cold plunge tubs, showers and a tea/social lounge. Towels and body wash provided; wear one swimsuit or athletic outfit for both sauna and plunge. No dedicated parking; street parking is free after 6pm and on Sundays.",
+      "last_checked": "2026-11-19"
+    }
+  ]
+}
