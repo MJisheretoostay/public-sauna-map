@@ -1,0 +1,68 @@
+{
+  "slug": "houston-tx",
+  "city": "Houston",
+  "state": "TX",
+  "state_name": "Texas",
+  "intro": "Houston's public sauna options are spread across the metro: Saunawelt in Webster/Clear Lake is a European-style communal sauna house with Finnish and herbal saunas and scheduled Aufguss, while two large Korean spas (jjimjilbang) on the west side, Gangnam Spa and Spa World in Katy, offer all-day walk-in admission with wood-fired kiln saunas and gender-separated hot and cold baths. Saunawelt is book-ahead only; the Korean spas take walk-ins.",
+  "last_checked": "2026-11-20",
+  "venues": [
+    {
+      "name": "Saunawelt",
+      "neighborhood": "Webster / Clear Lake",
+      "address": "18313A Egret Bay Blvd, Houston, TX 77058",
+      "sauna_type": ["Traditional Finnish (heat source Unknown)", "Steam room"],
+      "drop_in_price": "$35 for a 60-minute Reset session; $50 for a 90-minute Ritual session; $65 for a 2-hour Saunawelt session",
+      "session_length": "60, 90 or 120 minutes",
+      "cold_plunge": "No plunge pool listed; cold-water bucket shower, cool mist room and cold showers",
+      "schedule": "Hours as listed: Mon-Fri 10am-8:30pm, Sat 9am-8:30pm, Sun 11am-8:30pm. Advance booking required (same-day bookings when space allows). Mixed-gender, swimwear required; Women Wednesday is women-only from 5pm to close; Sunday Sauna Reset is silent. Ages 14-17 only with a parent or guardian; under 14 not permitted.",
+      "booking_url": "https://saunawelt.try.be/",
+      "source_urls": [
+        "https://www.saunawelt.com/",
+        "https://www.saunawelt.com/faq",
+        "https://www.saunawelt.com/calendar",
+        "https://saunawelt.try.be/",
+        "https://houston.culturemap.com/news/fashion/best-houston-sauna-suaunawelt-opening/"
+      ],
+      "notes": "Communal sauna house (soft-opened April 2026) with a hemlock Finnish sauna where water is poured on the stones, a Brechelbad Alpine herbal sauna, an aromatherapy steam room, infrared loungers and indoor and creek-side outdoor lounges with herbal tea. Aufguss, infusions and breathwork are on the Programme Calendar. A towel and sauna seat cover are provided; bring swimwear, non-slip slides and a glass-free water bottle. Cashless; phones stay in lockers. Multipasses from $145 (3 Ritual visits).",
+      "last_checked": "2026-11-20"
+    },
+    {
+      "name": "Gangnam Spa",
+      "neighborhood": "West Houston (Highway 6 North)",
+      "address": "4055 Highway 6 North, Houston, TX 77084",
+      "sauna_type": ["Bathhouse", "Wood-fired"],
+      "drop_in_price": "$48 weekday admission (Mon-Thu); $58 Fri-Sun and holidays (online purchase listed as $8 cheaper)",
+      "session_length": "All-day admission (no time limit; re-entry requires new admission)",
+      "cold_plunge": "Cold bath in the gender-separated bath areas (temperature Unknown)",
+      "schedule": "Contact page showed hours of 9am-10pm on 2026-11-20; full weekly hours Unknown. Walk-in, no reservations for admission (waitlist on busy days). 18+ only. Bath areas are gender-separated and nude-only; spa uniforms required in co-ed areas.",
+      "booking_url": "https://gangnamspa.org/admission-and-gift-card",
+      "source_urls": [
+        "https://gangnamspa.org/",
+        "https://gangnamspa.org/pricing-%26-services",
+        "https://gangnamspa.org/faqs",
+        "https://gangnamspa.org/contact"
+      ],
+      "notes": "Korean jjimjilbang of over 30,000 sq ft with specialty baths, heated rooms and lounges; its Bul-Ga-Ma kiln rooms are heated by wood fire. Towels, uniforms, shampoo and body wash provided. ID and a contact number required at check-in; no outside food, no bathing suits in the baths, only clear bags. Scrubs and massages cost extra and should be booked ahead.",
+      "last_checked": "2026-11-20"
+    },
+    {
+      "name": "Spa World",
+      "neighborhood": "Katy (west Houston metro, off I-10)",
+      "address": "929 Westgreen Blvd, Katy, TX 77450",
+      "sauna_type": ["Bathhouse", "Wood-fired", "Steam room"],
+      "drop_in_price": "$45 weekday admission (Mon-Thu); $55 Fri-Sun and holidays (4% service fee included)",
+      "session_length": "All-day admission (no re-entry after check-out)",
+      "cold_plunge": "Cold pool in each gender-separated bath area (temperature Unknown); Arctic Room in the co-ed area",
+      "schedule": "Spa open Mon-Sun 9am-10pm (last non-member check-in 9pm); hours may differ on holidays. Walk-in, no appointment needed for baths and saunas. Ages 11-17 only with a same-sex guardian; under 11 not permitted in the spa. Bath areas gender-separated and nude; uniforms in co-ed areas.",
+      "booking_url": "https://spaworldhouston.com/admission/",
+      "source_urls": [
+        "https://spaworldhouston.com/",
+        "https://spaworldhouston.com/fire-dome/",
+        "https://spaworldhouston.com/bath-area/",
+        "https://spaworldhouston.com/faq/"
+      ],
+      "notes": "Korean spa whose Fire Dome (bulgama) is heated with oak logs and reaches up to 185°F; other co-ed rooms include Jade, Himalayan Salt, Pyramid, Ocher Clay, Forest and a far-infrared room. Each bath area has a hot tub (typically 103-109°F), whirlpool, jet pool, cold pool, dry sauna and herbal steam room. Small towels provided, large towels $2. Phones must stay in lockers in the locker rooms and bath areas.",
+      "last_checked": "2026-11-20"
+    }
+  ]
+}
