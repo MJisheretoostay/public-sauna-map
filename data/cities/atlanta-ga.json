@@ -1,0 +1,82 @@
+{
+  "slug": "atlanta-ga",
+  "city": "Atlanta",
+  "state": "GA",
+  "state_name": "Georgia",
+  "intro": "Atlanta's public sauna scene is centered on the Korean spas (jjimjilbang) of Gwinnett County and the Buford Highway corridor, roughly 15-25 miles northeast of downtown. Jeju Sauna and Spa Land in Duluth, Gangnam Sauna in Norcross and Roman Holiday Sauna in Doraville all sell walk-in day admission covering mineral-stone sauna rooms, steam and gender-separated bath areas, and three of the four are open around the clock. A communal Nordic-style sauna club for intown Atlanta (Atlanta Sauna Club) has announced plans for 2027 but has no site yet.",
+  "last_checked": "2026-11-23",
+  "venues": [
+    {
+      "name": "Jeju Sauna",
+      "neighborhood": "Duluth (Gwinnett Place, northeast metro)",
+      "address": "3555 Gwinnett Pl Dr NW, Duluth, GA 30096",
+      "sauna_type": ["Bathhouse", "Steam room"],
+      "drop_in_price": "$40 adults (12+); $30 seniors (65+); $25 kids (3-11)",
+      "session_length": "Wristband key active for 24 hours; no re-entry",
+      "cold_plunge": "Unknown (bath areas have temperature-controlled tubs; a dedicated cold tub is not stated on the venue's site)",
+      "schedule": "Saunas and bathhouse open 24/7 including all holidays; other services have shorter hours. No appointments, first come first served. Gender-separated bathing areas require full nudity; spa uniform provided for shared areas. Barefoot facility.",
+      "booking_url": "https://jejusauna.com/",
+      "source_urls": [
+        "https://jejusauna.com/",
+        "https://jejusauna.com/pages/prices-services",
+        "https://jejusauna.com/pages/before-you-go"
+      ],
+      "notes": "Large Korean bathhouse with natural mineral-stone sauna rooms including salt and rock rooms, steam rooms, traditional baths, a heated jade-stone pool, a junior Olympic swimming pool (bring your own swimsuit; none provided) and a fitness room. A physical government-issued photo ID is required (paper copies refused); a $100 cash deposit is accepted instead. Food, scrubs and massages are charged to the wristband and paid at checkout; complimentary toiletries.",
+      "last_checked": "2026-11-23"
+    },
+    {
+      "name": "Spa Land & Sauna (Spa Land Georgia)",
+      "neighborhood": "Duluth (Berkeley Lake Rd, northeast metro)",
+      "address": "2645 N Berkeley Lake Rd NW, Building C, Duluth, GA 30096",
+      "sauna_type": ["Bathhouse", "Steam room"],
+      "drop_in_price": "$38 ages 12-64; $28 ages 2-11",
+      "session_length": "Daily admission (time limit Unknown)",
+      "cold_plunge": "Cold tubs on the men's and women's floors (temperature Unknown)",
+      "schedule": "Mon-Thu 9am-12am; Fri-Sun and holidays 9am-2am the next day (closed overnight for cleaning). Separate men's and women's floors plus a co-ed jjimjilbang floor. Body scrubs 9am-9:30pm daily. Walk-in policy for admission Unknown.",
+      "booking_url": "https://spalandga.com/",
+      "source_urls": [
+        "https://spalandga.com/"
+      ],
+      "notes": "Men's and women's floors each have hot and cold tubs, steam and dry saunas, treatment stations and showers; the co-ed floor has specialty mineral saunas. On-site food court with shorter hours. Scrubs from $60 and massages cost extra.",
+      "last_checked": "2026-11-23"
+    },
+    {
+      "name": "Gangnam Sauna",
+      "neighborhood": "Norcross (Buford Highway)",
+      "address": "6005 Buford Hwy, Norcross, GA 30071",
+      "sauna_type": ["Bathhouse"],
+      "drop_in_price": "$30 general admission at the front office; $20 seniors; $15 children",
+      "session_length": "Unknown",
+      "cold_plunge": "Cold baths (temperature Unknown)",
+      "schedule": "Open 24/7 per the venue's site; restaurant 9am-11pm. Children under 4 not admitted. Bath-area dress rules Unknown.",
+      "booking_url": "https://www.gangnamsauna.com/",
+      "source_urls": [
+        "https://www.gangnamsauna.com/",
+        "https://www.gangnamsauna.com/about",
+        "https://www.gangnamsauna.com/sauna",
+        "https://www.gangnamsauna.com/contacts"
+      ],
+      "notes": "Family-friendly Korean jjimjilbang with hot and cold baths and clay, salt, jade, charcoal and ice rooms, a full-service restaurant, an open-air terrace and a kids' zone. Body scrubs from $60 and other spa services cost extra.",
+      "last_checked": "2026-11-23"
+    },
+    {
+      "name": "Roman Holiday Sauna",
+      "neighborhood": "Doraville (Buford Highway)",
+      "address": "5979 Buford Hwy NE, Suite B7, Doraville, GA 30340",
+      "sauna_type": ["Bathhouse", "Steam room"],
+      "drop_in_price": "Unknown on the venue's site (its prices page was not loading on 2026-11-23); a third-party guide listed a $35 general day pass, $25 online, in Sept 2026",
+      "session_length": "Day pass (time limit Unknown)",
+      "cold_plunge": "Unknown",
+      "schedule": "Open 24/7/365. Walk-ins welcome, no appointment required (waits possible at peak times and holidays). Shoes removed inside. No outside food or drink; no alcohol or smoking.",
+      "booking_url": "https://romanholidaysauna.com/",
+      "source_urls": [
+        "https://romanholidaysauna.com/",
+        "https://romanholidaysauna.com/faq-page/",
+        "https://romanholidaysauna.com/facilities/",
+        "https://citysaunas.com/sauna-atlanta/"
+      ],
+      "notes": "Korean jjimjilbang with a dry sauna, steam room, charcoal room, Himalayan salt room and red clay room, plus hot tubs, showers and relaxation areas. Day pass includes towels and a locker; complimentary water and tea; on-site restaurant and K-Cafe. Body scrubs, massage, facials and nail services cost extra.",
+      "last_checked": "2026-11-23"
+    }
+  ]
+}

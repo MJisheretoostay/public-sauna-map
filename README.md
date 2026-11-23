@@ -46,7 +46,8 @@ Seasonal venues (lake saunas, park permits) change the most.
 ## City backlog (rough priority)
 Portland OR, Chicago IL, New York NY, San Francisco CA, Duluth MN (done), St. Paul MN (skipped 2026-11-04: <3 eligible venues in the city), Boston MA (done), Austin TX (done), Los Angeles CA (done), Salt Lake City UT (done), Boulder CO (done), Bozeman MT (done), Anchorage AK (done), Detroit MI (done), Philadelphia PA (done),
 Brooklyn NY (skipped 2026-11-17: already covered by the New York NY page), Oakland CA (skipped 2026-11-17: <3 eligible venues; only Some Sun, others private-room or infrared-only), Madison WI (done), Milwaukee WI (done), Burlington VT (skipped 2026-11-19: <3 eligible venues; only SAVU Lakeside's community hour in town, Nordic Spa is gym-attached in Shelburne, SAVU Bathhouse opens spring 2027),
-Pittsburgh PA (done; added 2026-11-19 after the backlog ran out), Houston TX (done; added 2026-11-20; includes Katy's Spa World as a metro venue). Add new cities here.
+Pittsburgh PA (done; added 2026-11-19 after the backlog ran out), Houston TX (done; added 2026-11-20; includes Katy's Spa World as a metro venue), Atlanta GA (done; added 2026-11-23; all four venues are Korean spas in Duluth/Norcross/Doraville; add Atlanta Sauna Club when it opens, targeted mid-2027),
+Washington DC (after Sauna Jungle opens Dec 2026), Portland ME, Asheville NC, Marquette MI, Spokane WA, San Diego CA (check for 3+ public venues; Encinitas Beach Sauna is weekends only). Add new cities here.
 
 ## Monetization (not live)
 `data/site.json -> home_gear_links` holds placeholder affiliate links (Sweaty Yeti, Plunge, Topture,
