@@ -1,0 +1,82 @@
+{
+  "slug": "portland-me",
+  "city": "Portland",
+  "state": "ME",
+  "state_name": "Maine",
+  "intro": "Portland's only in-town public bathhouse is Washington Baths on the East End, a walk-in-only spot with gender-separate saunas and a shared courtyard with hot and cold pools. The rest of the area's drop-in options are small wood-fired community saunas and a campground Nordic spa within about 20-25 minutes of downtown, in Scarborough and Freeport, where you book a seat in a shared session. Several mobile operators work the southern Maine coast seasonally; Village Sauna in South Portland was temporarily closed as of 2026-11-24 while it looks for a winter site.",
+  "last_checked": "2026-11-24",
+  "venues": [
+    {
+      "name": "Washington Baths",
+      "neighborhood": "East End (Washington Avenue)",
+      "address": "145 Washington Ave, Portland, ME 04101",
+      "sauna_type": ["Bathhouse", "Wood-fired"],
+      "drop_in_price": "$38 single entry; 5-pass card $165; 10-pass card $310",
+      "session_length": "No time limit (venue says a typical visit lasts 1.5-2 hours)",
+      "cold_plunge": "Outdoor cold pool (50F) in a shared courtyard, plus a 104F hot pool",
+      "schedule": "Thursday-Monday 12pm-9pm, last entry 8pm. Walk-in only, no reservations; in-person waitlist when full. Silence observed on Fridays. Gender-separate, clothing-optional sauna rooms; bathing suits required in common areas. Monthly Queer Community Day with all-gender bathing. Closed Nov 26-27 (Thanksgiving) and Dec 22-25, 2026.",
+      "booking_url": "https://washingtonbaths.com/",
+      "source_urls": [
+        "https://washingtonbaths.com/",
+        "https://washingtonbaths.com/faq.html"
+      ],
+      "notes": "Saunas use a traditional thermal-mass stove (kiuas) that can be fired with wood or gas; water may be poured on the rocks. Venue lists sauna air at roughly 180-200F. 44 lockers, lounge and library, small cafe; no outside food or drink. Bring a swimsuit, towel and sandals (towel rental $3, free sandals). Groups are discouraged; keep groups to 5 or fewer.",
+      "last_checked": "2026-11-24"
+    },
+    {
+      "name": "ROVE Sauna",
+      "neighborhood": "Scarborough (Black Point Rd, about 15 minutes south of Portland)",
+      "address": "134 Black Point Rd, Scarborough, ME (behind Black Point Surf Shop)",
+      "sauna_type": ["Wood-fired", "Outdoor"],
+      "drop_in_price": "$30 per person per shared session",
+      "session_length": "60 minutes (three ~15-minute heat rounds with cool-down breaks)",
+      "cold_plunge": "No plunge; cold-water bucket for cooling off",
+      "schedule": "Shared sessions of up to 8 guests; book all 8 spots for a private session. Online booking recommended; walk-ups welcome when space allows. Session times Unknown (shown on the booking page). Swimwear required. Operates rain or shine.",
+      "booking_url": "https://www.rovesauna.com/reserve-your-spot",
+      "source_urls": [
+        "https://www.rovesauna.com/",
+        "https://www.rovesauna.com/faq",
+        "https://www.rovesauna.com/experience",
+        "https://www.rovesauna.com/reserve-your-spot"
+      ],
+      "notes": "Hosted sessions with essential oils added to the water poured on the stones (scent-free on request). Venue says earlier sessions run milder and later sessions hotter. Cubbies for belongings; towels, water and electrolytes sold on site; bathroom in the surf shop during its opening hours. Cancellations more than 24 hours ahead are refunded.",
+      "last_checked": "2026-11-24"
+    },
+    {
+      "name": "Timberstone Sauna",
+      "neighborhood": "Freeport (Wolfe's Neck Center, about 20 miles north of Portland)",
+      "address": "Wolfe's Neck Center, 184 Burnett Road, Freeport, ME",
+      "sauna_type": ["Wood-fired", "Mobile", "Seasonal"],
+      "drop_in_price": "$32 per person for a 1-hour spot in a public session; private group session $275 (up to 9 people)",
+      "session_length": "60 minutes (book two consecutive sessions for 2 hours)",
+      "cold_plunge": "Unknown",
+      "schedule": "By reservation only; reservations must be made at least 12 hours ahead. Booking page says it is typically open on weekends during high tide, with the schedule posted about 2 weeks in advance. Season opened Saturday, October 3. Shared with other guests; bathing suit or equivalent clothing required.",
+      "booking_url": "https://timberstonesauna.as.me/",
+      "source_urls": [
+        "https://www.timberstonesauna.com/",
+        "https://www.timberstonesauna.com/saunasessions",
+        "https://www.timberstonesauna.com/faqs",
+        "https://timberstonesauna.as.me/"
+      ],
+      "notes": "Mobile sauna parked on the oceanside just after the bridge onto the Wolfe's Neck Center campus (a nonprofit farm with trails). Small changing area inside. Bring a towel to sit on and water. Cancellations more than 24 hours ahead are refunded minus processing fees.",
+      "last_checked": "2026-11-24"
+    },
+    {
+      "name": "Unwind Nordic Spa",
+      "neighborhood": "Freeport (Desert of Maine Campground, about 20 minutes north of Portland)",
+      "address": "95 Desert Rd, Freeport, ME",
+      "sauna_type": ["Outdoor"],
+      "drop_in_price": "$55 weekdays; $75 Friday from 1pm, Saturday and Sunday; $85 on a few holiday dates; $10 off 8am starts; 5-visit pass $275",
+      "session_length": "Up to 3 hours",
+      "cold_plunge": "None open as of 2026-11-24: the plunge pool is heated to the mid-90s F as a warm soak, and an individual cold plunge is installed but awaiting State of Maine approval",
+      "schedule": "Open year-round, daily 8am-9:45pm. Adults 21+. Book a day and arrival window online; everyone signs a waiver and gets a gate code. Not limited to campground guests.",
+      "booking_url": "https://unwindmaine.com/visit",
+      "source_urls": [
+        "https://unwindmaine.com/",
+        "https://unwindmaine.com/visit"
+      ],
+      "notes": "Group cedar Nordic sauna seating about 12 (water for steam), a 104F salt-water stone hot tub seating about eight, lounge chairs and a fire pit under a pergola. Heat source Unknown. Change and shower in the campground Bath House just outside the gate. Free cancellation up to the day before.",
+      "last_checked": "2026-11-24"
+    }
+  ]
+}
