@@ -1,0 +1,106 @@
+{
+  "slug": "dallas-tx",
+  "city": "Dallas",
+  "state": "TX",
+  "state_name": "Texas",
+  "intro": "Dallas-Fort Worth's public heat is spread across the northern metro: King Spa & Sauna, a Korean jjimjilbang on Royal Lane in Dallas; Spa Castle Texas and the Russian Banya of Dallas, both in Carrollton; and WorldSprings, an outdoor mineral-pool park with seven saunas and daily Aufguss sessions in The Colony. The Russian Banya is the only venue here that says its banya is heated by a wood-burning stove. Recovery lounges that mix saunas with red-light and compression devices, and spa-club saunas that have not opened yet, are not listed.",
+  "last_checked": "2026-11-27",
+  "venues": [
+    {
+      "name": "King Spa & Sauna Dallas",
+      "neighborhood": "Northwest Dallas (Royal Lane, Koreatown)",
+      "address": "2154 Royal Ln, Dallas, TX 75229",
+      "sauna_type": [
+        "Bathhouse",
+        "Steam room",
+        "Infrared"
+      ],
+      "drop_in_price": "$50 admission (ages 12+); $30 ages 2-11; under 2 free. The homepage says a special discounted admission applies while the waterpark is closed for construction (amount Unknown).",
+      "session_length": "Unknown (no stated time limit; a $10 overnight fee applies to guests staying past 2am or checking in 2am-4am per the spa guide)",
+      "cold_plunge": "Ice-cold tubs in the gender-separated spa areas; an ice room in the co-ed sauna area (temperatures Unknown)",
+      "schedule": "Spa & sauna 8am-12am daily per the hours page; services 10am-9:30pm last call; food court 8:30am-9:30pm last order. Walk-in, no reservations. Spa/bath areas are gender-separated; the nine sauna rooms are co-ed and worn with the provided uniform. 20-minute limit per sauna-room visit.",
+      "booking_url": "https://www.kingspa.com/dallas/price",
+      "source_urls": [
+        "https://www.kingspa.com/dallas/",
+        "https://www.kingspa.com/dallas/hours",
+        "https://www.kingspa.com/dallas/price",
+        "https://www.kingspa.com/dallas/spa-guide",
+        "https://www.kingspa.com/dallas/facilities",
+        "https://www.saunacityguide.com/dallas/king-spa-and-sauna/"
+      ],
+      "notes": "Korean jjimjilbang with nine themed co-ed sauna rooms, including a Base Rock Room, Pyramid Room, Fire Sudatorium, Salt Room, Bul Ga Ma and a far infrared room. Locker key doubles as a tab for extras; uniform provided. Shower with soap before using the pools. No outside food. The waterpark is closed for construction with no reopening date announced. Scrubs and massages cost extra; screen golf and karaoke rooms are on site.",
+      "last_checked": "2026-11-27"
+    },
+    {
+      "name": "Spa Castle Texas",
+      "neighborhood": "Carrollton (north Dallas metro)",
+      "address": "1020 Raiford Rd, Carrollton, TX 75007",
+      "sauna_type": [
+        "Bathhouse",
+        "Steam room",
+        "Infrared"
+      ],
+      "drop_in_price": "$75 adults Mon-Thu; $90 Fri-Sun and holidays; minors (17 or under) $40 weekday / $50 weekend; infants under 1 free",
+      "session_length": "All-day admission (stay as long as you like; no re-entry)",
+      "cold_plunge": "Cold bath pool in the gender-separated bathhouse; Ice Land cold room in the sauna area (temperatures Unknown)",
+      "schedule": "Mon-Sun 9am-9:30pm (bathhouse to 9:15pm per the bathhouse page). No reservation needed for entry; buying admission in person is recommended because online tickets take 24 hours to activate. All ages (under 18 supervised). Bath and locker areas gender-separated and nude-only; pools, saunas and lounges co-ed. Valid physical government ID required.",
+      "booking_url": "https://tx.spacastleusa.com/admission/",
+      "source_urls": [
+        "https://tx.spacastleusa.com/admission/",
+        "https://tx.spacastleusa.com/hours/",
+        "https://tx.spacastleusa.com/saunas/",
+        "https://tx.spacastleusa.com/bathhouse/",
+        "https://tx.spacastleusa.com/faq/",
+        "https://tx.spacastleusa.com/news/"
+      ],
+      "notes": "Korean-style spa that reopened after a full renovation under new management. Second-floor sauna rooms include a Himalayan Salt Sauna, Bulgama kiln room, Color room, Far Infrared, Gold Pyramid, Roman Bath steam room and Loess Tower; an Ondol room is in the locker room. Wet and dry sauna rooms in the bathhouse. Bring swimwear for the indoor and outdoor pools (spa uniforms are no longer issued); robe and towels provided with a $50 refundable deposit. Barefoot facility. Mandatory bag check. Food, drinks and spa services extra (20% service charge). The on-site hotel is closed for renovation.",
+      "last_checked": "2026-11-27"
+    },
+    {
+      "name": "Russian Banya of Dallas",
+      "neighborhood": "Carrollton (north Dallas metro)",
+      "address": "2515 E Rosemeade Parkway, Ste 401, Carrollton, TX 75007",
+      "sauna_type": [
+        "Russian banya",
+        "Wood-fired",
+        "Steam room"
+      ],
+      "drop_in_price": "$75 adults 18+; $30 ages 12-17; under 12 free; $35 seniors 65+. 10-admission pack $600.",
+      "session_length": "Unknown (a local guide says admission has no time limit)",
+      "cold_plunge": "Cold plunge pool, stated as 32°F on the venue site",
+      "schedule": "Closed Mon-Tue; Wed-Thu 3pm-10pm; Fri 3pm-11pm; Sat 12pm-11pm; Sun 12pm-10pm. All saunas and the 60-seat lounge are co-ed. Current valid ID required. Online booking offered on the site.",
+      "booking_url": "https://banyavolga.com/",
+      "source_urls": [
+        "https://banyavolga.com/",
+        "https://cravedfw.com/2026/06/04/the-russian-bathhouse-in-carrollton-is-one-of-the-most-unusual-nights-out-in-dfw/",
+        "https://www.dmagazine.com/guides/the-best-spas-in-north-texas/"
+      ],
+      "notes": "Three hot rooms: a Russian banya heated by a wood-burning brick stove (up to 200°F at 50-70% humidity), a dry Finnish sauna (up to 150°F at 10% humidity per the venue site) and a Turkish room. Venik platza $40 (limited availability due to understaffing), hammam scrub $50, massage $110-$130 by appointment; venik $20 and hats $35-45 to buy. On-site Volga restaurant serves Eastern European food. The older domain russianbanyaofdallas.com did not load on 2026-11-27; use banyavolga.com.",
+      "last_checked": "2026-11-27"
+    },
+    {
+      "name": "WorldSprings Dallas",
+      "neighborhood": "The Colony (north Dallas metro)",
+      "address": "3240 Plano Pkwy, The Colony, TX 75056",
+      "sauna_type": [
+        "Outdoor",
+        "Unknown heat source",
+        "Infrared"
+      ],
+      "drop_in_price": "Unknown (Day Pass and 3-Hour Pass prices are only shown in the booking system; seniors $45 Mon-Thu per the offers page)",
+      "session_length": "Day Pass: open to close with same-day re-entry; 3-Hour Pass: three hours. Aufguss sessions about 10 minutes.",
+      "cold_plunge": "Four cold plunges, 45-55°F",
+      "schedule": "FAQ: Sun-Thu 10am-10pm, Fri-Sat 9am-10pm (the homepage footer says Mon-Thu 10am-10pm and Fri-Sun 9am-10pm, so check before going). 16+ only; valid physical ID required. Mixed; swimsuits required. Reservations strongly recommended; walk-ins based on availability. Guided Aufguss sessions several times daily, included with every pass.",
+      "booking_url": "https://www.worldsprings.com/",
+      "source_urls": [
+        "https://www.worldsprings.com/",
+        "https://www.worldsprings.com/faqs",
+        "https://www.worldsprings.com/waters-and-amenities",
+        "https://www.worldsprings.com/aufguss",
+        "https://www.worldsprings.com/offers"
+      ],
+      "notes": "Outdoor mineral-pool park (40+ pools, 85-104°F) with seven saunas: Finnish, barrel, aromatherapy, Himalayan salt, chromotherapy and red light. Arrive 10 minutes before an Aufguss session; bring a towel or rent a robe. Towels and RFID lockers included. Pools close during lightning. No outside food or drink. Cabanas from $185; café and bar on site. Memberships from $159/month (four passes).",
+      "last_checked": "2026-11-27"
+    }
+  ]
+}
